@@ -1,0 +1,51 @@
+Country,LifeExpectancy,FertilityRate,Population,Region,GDP per Capita
+China,71.5,1.45,"1,269,974,572",East Asia & Pacific,3678
+India,61.1,3.21,1053481072,South Asia,2548
+United States,77.1,2.01,"282,895,741",America,45986
+Indonesia,68.3,2.5,"211,540,428",East Asia & Pacific,5878
+Brazil,71.9,2.4,175786441,America,11461
+Russia,65.4,1.16,146400951,Europe & Central Asia,13173
+Pakistan,62.6,4.67,138250487,South Asia,3366
+Bangladesh,65.8,3.23,131280739,South Asia,1632
+Japan,81.1,1.34,"125,714,674",East Asia & Pacific,32193
+Nigeria,55.8,6.13,122876723,Sub-Saharan Africa,2836
+Mexico,75.1,2.71,102808590,America,14704
+Germany,78.1,1.35,"81,895,925",Europe & Central Asia,36953
+Vietnam,72.6,2.06,80285563,East Asia & Pacific,2650
+Philippines,69,3.85,77932247,East Asia & Pacific,4243
+Egypt,68.9,3.37,68334905,Middle East & North Africa,7807
+Ethiopia,52.5,6.66,66443603,Sub-Saharan Africa,623
+Iran,71.2,2.34,65850062,Middle East & North Africa,11719
+Turkey,71.5,2.51,63240157,Europe & Central Asia,13025
+Thailand,71.3,1.71,62693322,East Asia & Pacific,8939
+France,79.1,1.8,"59,387,183",Europe & Central Asia,34774
+United Kingdom,77.8,1.69,58867004,Europe & Central Asia,32543
+Italy,79.6,1.21,"57,147,081",Europe & Central Asia,36073
+Ukraine,67.5,1.16,48746269,Europe & Central Asia,4809
+"Congo, Dem. Rep.",52.5,7.14,48048664,Sub-Saharan Africa,531
+Myanmar,61.4,2.51,47669791,East Asia & Pacific,2069
+South Africa,57.1,2.9,44896856,Sub-Saharan Africa,9927
+Spain,79.3,1.21,40749800,Europe & Central Asia,30647
+Colombia,72.5,2.68,40403959,America,8414
+Poland,73.8,1.39,38486305,Europe & Central Asia,14565
+Argentina,74.3,2.54,37057453,America,11504
+Tanzania,54.8,5.71,33991590,Sub-Saharan Africa,1488
+Algeria,73.2,2.63,31183658,Middle East & North Africa,9885
+Kenya,57.4,5.03,31065820,Sub-Saharan Africa,2143
+Canada,79.3,1.54,30701903,America,37314
+Morocco,71.3,2.8,28950553,Middle East & North Africa,4430
+Sudan,64.4,5.52,28079664,Sub-Saharan Africa,2258
+Peru,74.3,2.99,25914875,America,6485
+Uzbekistan,67.4,2.86,24518222,Europe & Central Asia,2471
+Venezuela,74.3,2.87,24481477,America,14461
+Uganda,50,6.9,23757636,Sub-Saharan Africa,1042
+Nepal,64.9,4.21,23740145,South Asia,1577
+Iraq,69.1,5.05,23574751,Middle East & North Africa,11764
+Malaysia,73.8,2.96,23420751,East Asia & Pacific,15695
+Taiwan,76,1.56,22175667,East Asia & Pacific,34205
+Romania,70.8,1.28,22128139,Europe & Central Asia,9970
+Saudi Arabia,76.1,4.19,21392273,Middle East & North Africa,37531
+Afghanistan,51,7.81,19701940,South Asia,962
+Australia,79.7,1.76,"19,107,251",East Asia & Pacific,35253
+Ghana,60.2,4.73,18824994,Sub-Saharan Africa,2273
+Sri Lanka,72.4,2.24,"18,783,745",South Asia,4946

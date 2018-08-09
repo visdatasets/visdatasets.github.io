@@ -1,0 +1,151 @@
+a, a:visited {
+    color: darken($brand-color, 20%);
+
+    .fas {
+        color: black;
+    }
+}
+
+a:hover {
+    color: darken($brand-color, 20%);
+
+    .fas {
+        color: darken($brand-color, 20%);
+    }
+}
+
+:focus {
+    outline: 1px solid $color-primary;
+    outline-offset: 2px;
+}
+
+.site-title {
+    &:hover {
+        text-decoration: none;
+    }
+}
+
+.site-title img {
+    height: 32px;
+    padding: 11px 0;
+    vertical-align: top;
+}
+
+.page-link.btn-launch, a.btn-launch-large {
+    background-color: darken($brand-color, 10%);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 2px;
+
+    @include shadow-ambient;
+
+    transition: background-color 0.1s linear, box-shadow 0.1s linear;
+
+    &:hover {
+        @include shadow-focused;
+
+        background-color: $brand-color;
+        text-decoration: none;
+    }
+}
+
+.page-link.btn-launch, a.btn-launch-large {
+    &:focus {
+        outline: none;
+        box-shadow: 0 0 0 0.2em transparentize($brand-color, 0.6);
+        text-decoration: none;
+    }
+}
+
+.home-header {
+    text-align: center;
+    margin-bottom: 40px;
+
+    h1 {
+        font-size: 3em;
+    }
+
+    .el-description {
+        font-size: 1.6em;
+        font-weight: 300;
+        margin-bottom: 40px;
+    }
+
+    p {
+        margin-bottom: 20px;
+    }
+
+    .el-note {
+        font-size: 0.9em;
+        margin-bottom: 0px;
+    }
+}
+
+.home-video {
+    margin-bottom: 40px;
+}
+
+table {
+    td, th {
+        padding: 3px 10px;
+    }
+}
+
+.dataset-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: -16px;
+}
+
+.dataset-item {
+    $header-bg-color: $gray-100;
+
+    font-size: 0.9em;
+    border-radius: 2px;
+    box-shadow: 0 0 4px $gray-180;
+    border: 1px solid $header-bg-color;
+    padding: 16px;
+    margin: 16px;
+    box-sizing: border-box;
+    width: 434px;
+    overflow: hidden;
+
+    .el-label {
+        color: $gray-140;
+        font-size: 0.9em;
+    }
+
+    .el-header {
+        font-size: 1.2em;
+        background: $header-bg-color;
+        color: white;
+        padding: 0.2em 16px;
+        margin: -16px;
+        margin-bottom: 1em;
+
+        p {
+            margin: 0;
+            padding: 0;
+            display: inline;
+        }
+    }
+
+    ul {
+        list-style-type: none;
+        margin-left: 0;
+    }
+}
+
+@media (max-width: 960px) {
+    .dataset-item {
+        width: 100%;
+    }
+}
+
+.data-table {
+    font-size: 0.9em;
+    tbody {
+        font-family: Inconsolata;
+    }
+}

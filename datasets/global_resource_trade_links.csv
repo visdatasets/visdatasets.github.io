@@ -1,0 +1,540 @@
+source_id,target_id,Source,Target,Region,Amount
+DZA,BEL,Algeria,Belgium,Middle East and North Africa,1040768.2
+DZA,BRA,Algeria,Brazil,Middle East and North Africa,1559184.6
+DZA,CAN,Algeria,Canada,Middle East and North Africa,1306055.2
+DZA,FRA,Algeria,France,Middle East and North Africa,3166818.9
+DZA,DEU,Algeria,Germany,Middle East and North Africa,1192009.4
+DZA,ITA,Algeria,Italy,Middle East and North Africa,4852450.6
+DZA,NLD,Algeria,Netherlands,Middle East and North Africa,1077302.7
+DZA,ESP,Algeria,Spain,Middle East and North Africa,4731520.9
+DZA,TUR,Algeria,Turkey,Middle East and North Africa,1610586.9
+DZA,USA,Algeria,United States,Middle East and North Africa,3358508.8
+AGO,CHN,Angola,China,Sub-Saharan Africa,13927145.0
+AGO,FRA,Angola,France,Sub-Saharan Africa,1025776.4
+AGO,IND,Angola,India,Sub-Saharan Africa,1797159.6
+AGO,ZAF,Angola,South Africa,Sub-Saharan Africa,1262325.8
+AGO,USA,Angola,United States,Sub-Saharan Africa,2731731.6
+AZE,ITA,Azerbaijan,Italy,Central and Northern Asia,2093127.3
+ARG,DZA,Argentina,Algeria,South America,1280050.4
+ARG,BRA,Argentina,Brazil,South America,2656478.3
+ARG,CHN,Argentina,China,South America,4082949.2
+ARG,IDN,Argentina,Indonesia,South America,1293835.3
+ARG,MYS,Argentina,Malaysia,South America,1056759.9
+ARG,IND,Argentina,India,South America,2393373.6
+ARG,VNM,Argentina,Vietnam,South America,2525641.4
+ARG,ESP,Argentina,Spain,South America,1404446.3
+ARG,CHE,Argentina,Switzerland,South America,1092937.4
+ARG,EGY,Argentina,Egypt,South America,1521861.9
+ARG,USA,Argentina,United States,South America,1082678.7
+AUS,CHN,Australia,China,Oceania,64468746.3
+AUS,HKG,Australia,"China, Hong Kong SAR",Oceania,4659599.8
+AUS,IDN,Australia,Indonesia,Oceania,2574161.7
+AUS,JPN,Australia,Japan,Oceania,27948606.7
+AUS,KOR,Australia,"Korea, Rep.",Oceania,14105629.1
+AUS,MYS,Australia,Malaysia,Oceania,2531693.4
+AUS,IND,Australia,India,Oceania,8918659.9
+AUS,SGP,Australia,Singapore,Oceania,1258574.5
+AUS,VNM,Australia,Vietnam,Oceania,1519767.5
+AUS,THA,Australia,Thailand,Oceania,1128769.8
+AUS,USA,Australia,United States,Oceania,2603352.9
+AUT,DEU,Austria,Germany,Europe,5563873.9
+AUT,ITA,Austria,Italy,Europe,1212459.2
+BHR,JPN,Bahrain,Japan,Middle East and North Africa,1032892.8
+BHR,ARE,Bahrain,United Arab Emirates,Middle East and North Africa,1018081.6
+BEL,FRA,Belgium,France,Europe,12800833.1
+BEL,DEU,Belgium,Germany,Europe,13326629.6
+BEL,HKG,Belgium,"China, Hong Kong SAR",Europe,1623538.1
+BEL,ISR,Belgium,Israel,Europe,1027824.9
+BEL,NLD,Belgium,Netherlands,Europe,14320187.9
+BEL,NGA,Belgium,Nigeria,Europe,2728039.1
+BEL,IND,Belgium,India,Europe,6593136.1
+BEL,CHE,Belgium,Switzerland,Europe,1434659.2
+BEL,ARE,Belgium,United Arab Emirates,Europe,2931816.0
+BEL,GBR,Belgium,United Kingdom,Europe,4303783.0
+BEL,USA,Belgium,United States,Europe,1326364.1
+BOL,BRA,Bolivia,Brazil,South America,1290559.2
+BWA,BEL,Botswana,Belgium,Sub-Saharan Africa,1931972.2
+BWA,IND,Botswana,India,Sub-Saharan Africa,1000183.9
+BWA,ARE,Botswana,United Arab Emirates,Sub-Saharan Africa,1196936.5
+BRA,DZA,Brazil,Algeria,South America,1058793.3
+BRA,BGD,Brazil,Bangladesh,South America,1033978.4
+BRA,BEL,Brazil,Belgium,South America,1245100.0
+BRA,CHL,Brazil,Chile,South America,1345663.2
+BRA,CHN,Brazil,China,South America,39243347.0
+BRA,FRA,Brazil,France,South America,1072168.3
+BRA,DEU,Brazil,Germany,South America,4388658.7
+BRA,HKG,Brazil,"China, Hong Kong SAR",South America,2190716.5
+BRA,IDN,Brazil,Indonesia,South America,1670128.0
+BRA,IRN,Brazil,Iran,South America,2126789.3
+BRA,ITA,Brazil,Italy,South America,1347556.7
+BRA,JPN,Brazil,Japan,South America,4752412.2
+BRA,KOR,Brazil,"Korea, Rep.",South America,2776454.7
+BRA,MYS,Brazil,Malaysia,South America,1110269.1
+BRA,NLD,Brazil,Netherlands,South America,4376354.3
+BRA,RUS,Brazil,Russian Federation,South America,2071261.3
+BRA,SAU,Brazil,Saudi Arabia,South America,1843904.5
+BRA,IND,Brazil,India,South America,1436533.1
+BRA,VNM,Brazil,Vietnam,South America,1233187.2
+BRA,ESP,Brazil,Spain,South America,1282708.8
+BRA,THA,Brazil,Thailand,South America,1497676.9
+BRA,ARE,Brazil,United Arab Emirates,South America,1130747.7
+BRA,EGY,Brazil,Egypt,South America,1422821.2
+BRA,USA,Brazil,United States,South America,10410591.5
+BRN,JPN,Brunei Darussalam,Japan,Southeast Asia,1739989.3
+MMR,CHN,Myanmar,China,Southeast Asia,3280069.0
+MMR,THA,Myanmar,Thailand,Southeast Asia,3780619.5
+BLR,RUS,Belarus,Russian Federation,Central and Northern Asia,2992295.3
+BLR,UKR,Belarus,Ukraine,Central and Northern Asia,1874962.7
+CAN,CHN,Canada,China,North America,11887649.0
+CAN,JPN,Canada,Japan,North America,6090308.5
+CAN,KOR,Canada,"Korea, Rep.",North America,1104924.2
+CAN,MEX,Canada,Mexico,North America,1407743.4
+CAN,IND,Canada,India,North America,1049964.6
+CAN,GBR,Canada,United Kingdom,North America,9201608.7
+CAN,USA,Canada,United States,North America,105781220.6
+CHL,BRA,Chile,Brazil,South America,1261245.0
+CHL,CHN,Chile,China,South America,17868246.6
+CHL,JPN,Chile,Japan,South America,4444709.9
+CHL,KOR,Chile,"Korea, Rep.",South America,3397409.4
+CHL,IND,Chile,India,South America,1087748.4
+CHL,ESP,Chile,Spain,South America,1010845.2
+CHL,USA,Chile,United States,South America,6281192.9
+CHN,AUS,China,Australia,China,1116114.0
+CHN,BEL,China,Belgium,China,1161573.6
+CHN,DEU,China,Germany,China,1605945.3
+CHN,HKG,China,"China, Hong Kong SAR",China,15315664.9
+CHN,IDN,China,Indonesia,China,4716703.7
+CHN,ITA,China,Italy,China,2534865.7
+CHN,JPN,China,Japan,China,9400816.2
+CHN,KOR,China,"Korea, Rep.",China,12708433.1
+CHN,MYS,China,Malaysia,China,5102223.1
+CHN,PAK,China,Pakistan,China,1216727.0
+CHN,PHL,China,Philippines,China,5366931.6
+CHN,RUS,China,Russian Federation,China,1391789.8
+CHN,SAU,China,Saudi Arabia,China,1603657.7
+CHN,IND,China,India,China,4500928.2
+CHN,SGP,China,Singapore,China,5931672.2
+CHN,VNM,China,Vietnam,China,10845076.0
+CHN,THA,China,Thailand,China,6173623.8
+CHN,ARE,China,United Arab Emirates,China,1056327.5
+CHN,TUR,China,Turkey,China,1237837.1
+CHN,USA,China,United States,China,10797382.8
+COL,CHN,Colombia,China,South America,1617749.9
+COL,PAN,Colombia,Panama,South America,1539394.3
+COL,USA,Colombia,United States,South America,10794300.2
+COG,CHN,"Congo, Rep.",China,Sub-Saharan Africa,2145140.3
+COD,CHN,"Congo, Dem. Rep.",China,Sub-Saharan Africa,1938084.7
+CRI,USA,Costa Rica,United States,Caribbean and Central America,1692332.5
+CZE,DEU,Czech Rep.,Germany,Europe,2749807.4
+DNK,CHN,Denmark,China,Europe,1380439.3
+DNK,DEU,Denmark,Germany,Europe,2449389.3
+DNK,SWE,Denmark,Sweden,Europe,2958137.3
+DNK,GBR,Denmark,United Kingdom,Europe,1136102.4
+ECU,RUS,Ecuador,Russian Federation,South America,1062308.9
+ECU,VNM,Ecuador,Vietnam,South America,1113655.6
+ECU,USA,Ecuador,United States,South America,5277462.6
+FIN,DEU,Finland,Germany,Europe,1646931.9
+FIN,NLD,Finland,Netherlands,Europe,1546528.5
+FIN,SWE,Finland,Sweden,Europe,1215518.3
+FRA,DZA,France,Algeria,Europe,1066682.4
+FRA,BEL,France,Belgium,Europe,8542228.1
+FRA,CHN,France,China,Europe,1244406.0
+FRA,DEU,France,Germany,Europe,9060890.4
+FRA,ITA,France,Italy,Europe,7466215.6
+FRA,NLD,France,Netherlands,Europe,3638753.4
+FRA,ESP,France,Spain,Europe,6387519.8
+FRA,CHE,France,Switzerland,Europe,2150347.0
+FRA,GBR,France,United Kingdom,Europe,2394502.0
+GAB,CHN,Gabon,China,Sub-Saharan Africa,1059712.4
+DEU,AUT,Germany,Austria,Europe,8585972.0
+DEU,BEL,Germany,Belgium,Europe,7426816.5
+DEU,CHN,Germany,China,Europe,3761917.4
+DEU,CZE,Germany,Czech Rep.,Europe,3514796.2
+DEU,DNK,Germany,Denmark,Europe,1841693.4
+DEU,FRA,Germany,France,Europe,10130226.8
+DEU,ITA,Germany,Italy,Europe,8527198.9
+DEU,NLD,Germany,Netherlands,Europe,14778073.0
+DEU,POL,Germany,Poland,Europe,7153235.7
+DEU,ESP,Germany,Spain,Europe,2799970.9
+DEU,SWE,Germany,Sweden,Europe,1342807.1
+DEU,CHE,Germany,Switzerland,Europe,7869421.9
+DEU,TUR,Germany,Turkey,Europe,1115895.4
+DEU,GBR,Germany,United Kingdom,Europe,6198360.4
+DEU,USA,Germany,United States,Europe,4185100.2
+GHA,IND,Ghana,India,Sub-Saharan Africa,1076146.0
+GHA,CHE,Ghana,Switzerland,Sub-Saharan Africa,2313379.6
+GHA,ARE,Ghana,United Arab Emirates,Sub-Saharan Africa,1819371.2
+GRC,ITA,Greece,Italy,Europe,1087531.7
+GRC,LBN,Greece,Lebanon,Europe,1043824.6
+GTM,USA,Guatemala,United States,Caribbean and Central America,1971830.7
+GIN,ARE,Guinea,United Arab Emirates,Sub-Saharan Africa,1073630.2
+HKG,CHN,"China, Hong Kong SAR",China,China,29824116.9
+HKG,ISR,"China, Hong Kong SAR",Israel,China,1206201.3
+HKG,IND,"China, Hong Kong SAR",India,China,3366267.1
+HKG,VNM,"China, Hong Kong SAR",Vietnam,China,1914236.5
+HKG,CHE,"China, Hong Kong SAR",Switzerland,China,6347193.7
+HKG,THA,"China, Hong Kong SAR",Thailand,China,2847788.1
+HKG,ARE,"China, Hong Kong SAR",United Arab Emirates,China,1861821.6
+HKG,GBR,"China, Hong Kong SAR",United Kingdom,China,4800462.9
+HKG,USA,"China, Hong Kong SAR",United States,China,1997484.1
+IDN,CHN,Indonesia,China,Southeast Asia,14527328.5
+IDN,JPN,Indonesia,Japan,Southeast Asia,10058366.7
+IDN,KOR,Indonesia,"Korea, Rep.",Southeast Asia,3278571.4
+IDN,MYS,Indonesia,Malaysia,Southeast Asia,2969348.8
+IDN,NLD,Indonesia,Netherlands,Southeast Asia,1124233.0
+IDN,PAK,Indonesia,Pakistan,Southeast Asia,1525039.1
+IDN,IND,Indonesia,India,Southeast Asia,9595239.1
+IDN,SGP,Indonesia,Singapore,Southeast Asia,4720639.6
+IDN,CHE,Indonesia,Switzerland,Southeast Asia,1790703.4
+IDN,THA,Indonesia,Thailand,Southeast Asia,1780712.9
+IDN,USA,Indonesia,United States,Southeast Asia,3878764.3
+IRN,CHN,Iran,China,Middle East and North Africa,11537286.8
+IRN,FRA,Iran,France,Middle East and North Africa,1447944.0
+IRN,JPN,Iran,Japan,Middle East and North Africa,3286910.9
+IRN,KOR,Iran,"Korea, Rep.",Middle East and North Africa,4565307.8
+IRN,IND,Iran,India,Middle East and North Africa,6780455.7
+IRQ,CHN,Iraq,China,Middle East and North Africa,10660586.7
+IRQ,GRC,Iraq,Greece,Middle East and North Africa,2617605.9
+IRQ,ITA,Iraq,Italy,Middle East and North Africa,3244662.5
+IRQ,JPN,Iraq,Japan,Middle East and North Africa,1085949.0
+IRQ,KOR,Iraq,"Korea, Rep.",Middle East and North Africa,5035186.3
+IRQ,NLD,Iraq,Netherlands,Middle East and North Africa,1795137.5
+IRQ,IND,Iraq,India,Middle East and North Africa,9899394.7
+IRQ,ESP,Iraq,Spain,Middle East and North Africa,1375520.8
+IRQ,ARE,Iraq,United Arab Emirates,Middle East and North Africa,1651914.6
+IRQ,USA,Iraq,United States,Middle East and North Africa,6315363.0
+IRL,GBR,Ireland,United Kingdom,Europe,3004489.2
+ISR,HKG,Israel,"China, Hong Kong SAR",Middle East and North Africa,3280091.1
+ISR,IND,Israel,India,Middle East and North Africa,1215854.2
+ISR,USA,Israel,United States,Middle East and North Africa,6626968.7
+ITA,AUT,Italy,Austria,Europe,1033415.9
+ITA,FRA,Italy,France,Europe,4841898.0
+ITA,DEU,Italy,Germany,Europe,8096348.4
+ITA,ESP,Italy,Spain,Europe,3688276.4
+ITA,CHE,Italy,Switzerland,Europe,3026297.3
+ITA,GBR,Italy,United Kingdom,Europe,1350335.3
+ITA,USA,Italy,United States,Europe,1753307.4
+CIV,NLD,Cote d'Ivoire,Netherlands,Sub-Saharan Africa,1286984.9
+CIV,USA,Cote d'Ivoire,United States,Sub-Saharan Africa,1139211.8
+JPN,AUS,Japan,Australia,East Asia excluding China,1879975.6
+JPN,CHN,Japan,China,East Asia excluding China,11564661.2
+JPN,HKG,Japan,"China, Hong Kong SAR",East Asia excluding China,1887591.4
+JPN,IDN,Japan,Indonesia,East Asia excluding China,1756870.5
+JPN,KOR,Japan,"Korea, Rep.",East Asia excluding China,8001394.1
+JPN,MYS,Japan,Malaysia,East Asia excluding China,1372153.6
+JPN,MEX,Japan,Mexico,East Asia excluding China,1414608.7
+JPN,IND,Japan,India,East Asia excluding China,1162681.3
+JPN,SGP,Japan,Singapore,East Asia excluding China,2446460.5
+JPN,VNM,Japan,Vietnam,East Asia excluding China,1757989.2
+JPN,THA,Japan,Thailand,East Asia excluding China,4635224.3
+JPN,GBR,Japan,United Kingdom,East Asia excluding China,2841294.7
+JPN,USA,Japan,United States,East Asia excluding China,2303540.2
+KAZ,CHN,Kazakhstan,China,Central and Northern Asia,3537195.4
+KAZ,FRA,Kazakhstan,France,Central and Northern Asia,2045968.9
+KAZ,DEU,Kazakhstan,Germany,Central and Northern Asia,2338321.1
+KAZ,GRC,Kazakhstan,Greece,Central and Northern Asia,1053511.9
+KAZ,ITA,Kazakhstan,Italy,Central and Northern Asia,4744903.8
+KAZ,NLD,Kazakhstan,Netherlands,Central and Northern Asia,1451462.1
+KAZ,RUS,Kazakhstan,Russian Federation,Central and Northern Asia,1847138.2
+KAZ,TUR,Kazakhstan,Turkey,Central and Northern Asia,1037162.4
+PRK,CHN,"Korea, Dem. Rep.",China,East Asia excluding China,1187109.8
+KOR,AUS,"Korea, Rep.",Australia,East Asia excluding China,2874739.2
+KOR,CHN,"Korea, Rep.",China,East Asia excluding China,12759040.1
+KOR,HKG,"Korea, Rep.","China, Hong Kong SAR",East Asia excluding China,2158226.4
+KOR,IDN,"Korea, Rep.",Indonesia,East Asia excluding China,1004998.2
+KOR,JPN,"Korea, Rep.",Japan,East Asia excluding China,6993257.3
+KOR,MYS,"Korea, Rep.",Malaysia,East Asia excluding China,1056420.0
+KOR,MEX,"Korea, Rep.",Mexico,East Asia excluding China,1092426.2
+KOR,IND,"Korea, Rep.",India,East Asia excluding China,2446249.7
+KOR,SGP,"Korea, Rep.",Singapore,East Asia excluding China,3103701.8
+KOR,VNM,"Korea, Rep.",Vietnam,East Asia excluding China,3197840.5
+KOR,THA,"Korea, Rep.",Thailand,East Asia excluding China,1786319.2
+KOR,USA,"Korea, Rep.",United States,East Asia excluding China,4935403.4
+KWT,CHN,Kuwait,China,Middle East and North Africa,5353695.9
+KWT,ETH,Kuwait,Ethiopia,Middle East and North Africa,1060634.0
+KWT,JPN,Kuwait,Japan,Middle East and North Africa,4232676.7
+KWT,KOR,Kuwait,"Korea, Rep.",Middle East and North Africa,7233932.5
+KWT,PHL,Kuwait,Philippines,Middle East and North Africa,1007324.6
+KWT,IND,Kuwait,India,Middle East and North Africa,3123313.9
+KWT,SGP,Kuwait,Singapore,Middle East and North Africa,2245820.5
+KWT,USA,Kuwait,United States,Middle East and North Africa,3315095.9
+LBY,ITA,Libya,Italy,Middle East and North Africa,1969556.8
+LBY,ARE,Libya,United Arab Emirates,Middle East and North Africa,2790905.0
+MYS,AUS,Malaysia,Australia,Southeast Asia,2795523.1
+MYS,CHN,Malaysia,China,Southeast Asia,8273233.7
+MYS,IDN,Malaysia,Indonesia,Southeast Asia,2099785.0
+MYS,JPN,Malaysia,Japan,Southeast Asia,5684904.7
+MYS,KOR,Malaysia,"Korea, Rep.",Southeast Asia,1905366.2
+MYS,IND,Malaysia,India,Southeast Asia,4733733.9
+MYS,SGP,Malaysia,Singapore,Southeast Asia,7223025.7
+MYS,VNM,Malaysia,Vietnam,Southeast Asia,1339244.2
+MYS,THA,Malaysia,Thailand,Southeast Asia,1706625.8
+MLI,ZAF,Mali,South Africa,Sub-Saharan Africa,1328821.2
+MLI,ARE,Mali,United Arab Emirates,Sub-Saharan Africa,1493233.8
+MRT,CHN,Mauritania,China,Sub-Saharan Africa,1088434.2
+MEX,CAN,Mexico,Canada,North America,1009328.7
+MEX,CHN,Mexico,China,North America,2068170.1
+MEX,JPN,Mexico,Japan,North America,1271017.0
+MEX,IND,Mexico,India,North America,1599839.3
+MEX,ESP,Mexico,Spain,North America,2123147.0
+MEX,GBR,Mexico,United Kingdom,North America,1292777.0
+MEX,USA,Mexico,United States,North America,33950908.8
+MNG,CHN,Mongolia,China,Central and Northern Asia,3379652.0
+MAR,ESP,Morocco,Spain,Middle East and North Africa,1159479.5
+OMN,CHN,Oman,China,Middle East and North Africa,11197440.4
+OMN,JPN,Oman,Japan,Middle East and North Africa,1672852.7
+OMN,KOR,Oman,"Korea, Rep.",Middle East and North Africa,2237247.6
+NLD,BEL,Netherlands,Belgium,Europe,22422472.9
+NLD,CAN,Netherlands,Canada,Europe,1294574.4
+NLD,CHN,Netherlands,China,Europe,2222583.7
+NLD,DNK,Netherlands,Denmark,Europe,1259766.8
+NLD,FRA,Netherlands,France,Europe,7825348.5
+NLD,DEU,Netherlands,Germany,Europe,32877595.6
+NLD,ITA,Netherlands,Italy,Europe,2803294.1
+NLD,NGA,Netherlands,Nigeria,Europe,2667316.0
+NLD,POL,Netherlands,Poland,Europe,1406220.6
+NLD,SGP,Netherlands,Singapore,Europe,2228446.8
+NLD,ESP,Netherlands,Spain,Europe,1716688.9
+NLD,SWE,Netherlands,Sweden,Europe,1370813.5
+NLD,GBR,Netherlands,United Kingdom,Europe,9998660.1
+NLD,USA,Netherlands,United States,Europe,3004837.0
+NZL,CHN,New Zealand,China,Oceania,5590639.9
+NZL,JPN,New Zealand,Japan,Oceania,1066416.6
+NZL,USA,New Zealand,United States,Oceania,1961811.8
+NGA,FRA,Nigeria,France,Sub-Saharan Africa,2178263.8
+NGA,IDN,Nigeria,Indonesia,Sub-Saharan Africa,1273895.9
+NGA,NLD,Nigeria,Netherlands,Sub-Saharan Africa,1869105.1
+NGA,IND,Nigeria,India,Sub-Saharan Africa,6346036.1
+NGA,ZAF,Nigeria,South Africa,Sub-Saharan Africa,1887828.3
+NGA,ESP,Nigeria,Spain,Sub-Saharan Africa,3098992.3
+NGA,GBR,Nigeria,United Kingdom,Sub-Saharan Africa,1137764.2
+NGA,USA,Nigeria,United States,Sub-Saharan Africa,3985425.1
+NOR,BEL,Norway,Belgium,Europe,3152550.9
+NOR,DNK,Norway,Denmark,Europe,1137509.0
+NOR,FRA,Norway,France,Europe,4596885.4
+NOR,DEU,Norway,Germany,Europe,11013847.5
+NOR,NLD,Norway,Netherlands,Europe,6396735.4
+NOR,POL,Norway,Poland,Europe,1064429.9
+NOR,SWE,Norway,Sweden,Europe,4080696.6
+NOR,GBR,Norway,United Kingdom,Europe,15208163.6
+NOR,USA,Norway,United States,Europe,1401590.0
+PAK,CHN,Pakistan,China,South Asia,1300059.1
+PNG,AUS,Papua New Guinea,Australia,Oceania,1917381.8
+PNG,JPN,Papua New Guinea,Japan,Oceania,1633781.5
+PER,CAN,Peru,Canada,South America,1441156.3
+PER,CHN,Peru,China,South America,7984317.6
+PER,JPN,Peru,Japan,South America,1025446.8
+PER,CHE,Peru,Switzerland,South America,2464317.4
+PER,USA,Peru,United States,South America,4483392.4
+PHL,CHN,Philippines,China,Southeast Asia,1157339.3
+PHL,JPN,Philippines,Japan,Southeast Asia,1009311.5
+POL,CZE,Poland,Czech Rep.,Europe,2376261.0
+POL,DEU,Poland,Germany,Europe,6152829.4
+POL,ITA,Poland,Italy,Europe,1026011.5
+PRT,ESP,Portugal,Spain,Europe,1577150.1
+QAT,CHN,Qatar,China,Middle East and North Africa,3277354.1
+QAT,IDN,Qatar,Indonesia,Middle East and North Africa,1017389.2
+QAT,JPN,Qatar,Japan,Middle East and North Africa,11262687.4
+QAT,KOR,Qatar,"Korea, Rep.",Middle East and North Africa,10272418.3
+QAT,IND,Qatar,India,Middle East and North Africa,7086373.7
+QAT,SGP,Qatar,Singapore,Middle East and North Africa,3035980.1
+QAT,THA,Qatar,Thailand,Middle East and North Africa,2096470.4
+QAT,ARE,Qatar,United Arab Emirates,Middle East and North Africa,2232702.1
+QAT,EGY,Qatar,Egypt,Middle East and North Africa,1411451.3
+QAT,GBR,Qatar,United Kingdom,Middle East and North Africa,1770396.1
+RUS,BEL,Russian Federation,Belgium,Central and Northern Asia,7086463.1
+RUS,BRA,Russian Federation,Brazil,Central and Northern Asia,1102698.2
+RUS,BGR,Russian Federation,Bulgaria,Central and Northern Asia,2249636.6
+RUS,BLR,Russian Federation,Belarus,Central and Northern Asia,8414895.0
+RUS,CHN,Russian Federation,China,Central and Northern Asia,28234807.3
+RUS,CZE,Russian Federation,Czech Rep.,Central and Northern Asia,1006956.4
+RUS,FIN,Russian Federation,Finland,Central and Northern Asia,4035492.0
+RUS,FRA,Russian Federation,France,Central and Northern Asia,3115544.9
+RUS,DEU,Russian Federation,Germany,Central and Northern Asia,14789784.3
+RUS,GRC,Russian Federation,Greece,Central and Northern Asia,2259979.5
+RUS,HUN,Russian Federation,Hungary,Central and Northern Asia,2101696.2
+RUS,ITA,Russian Federation,Italy,Central and Northern Asia,11922504.7
+RUS,JPN,Russian Federation,Japan,Central and Northern Asia,9172687.3
+RUS,KAZ,Russian Federation,Kazakhstan,Central and Northern Asia,2131745.9
+RUS,KOR,Russian Federation,"Korea, Rep.",Central and Northern Asia,7501392.9
+RUS,LVA,Russian Federation,Latvia,Central and Northern Asia,2038852.8
+RUS,LTU,Russian Federation,Lithuania,Central and Northern Asia,2026158.0
+RUS,MLT,Russian Federation,Malta,Central and Northern Asia,1211177.6
+RUS,NLD,Russian Federation,Netherlands,Central and Northern Asia,18710444.1
+RUS,POL,Russian Federation,Poland,Central and Northern Asia,6748815.1
+RUS,ROU,Russian Federation,Romania,Central and Northern Asia,1674989.6
+RUS,IND,Russian Federation,India,Central and Northern Asia,1848205.6
+RUS,SGP,Russian Federation,Singapore,Central and Northern Asia,2084579.2
+RUS,SVK,Russian Federation,Slovakia,Central and Northern Asia,2410220.1
+RUS,ESP,Russian Federation,Spain,Central and Northern Asia,2137622.1
+RUS,SWE,Russian Federation,Sweden,Central and Northern Asia,2268574.6
+RUS,CHE,Russian Federation,Switzerland,Central and Northern Asia,1790222.2
+RUS,TUR,Russian Federation,Turkey,Central and Northern Asia,9741319.6
+RUS,UKR,Russian Federation,Ukraine,Central and Northern Asia,1663659.0
+RUS,EGY,Russian Federation,Egypt,Central and Northern Asia,1932392.7
+RUS,GBR,Russian Federation,United Kingdom,Central and Northern Asia,3870669.8
+RUS,USA,Russian Federation,United States,Central and Northern Asia,9039830.2
+SAU,CAN,Saudi Arabia,Canada,Middle East and North Africa,1239586.2
+SAU,CHN,Saudi Arabia,China,Middle East and North Africa,16361520.1
+SAU,FRA,Saudi Arabia,France,Middle East and North Africa,3933432.3
+SAU,IDN,Saudi Arabia,Indonesia,Middle East and North Africa,2019500.9
+SAU,ITA,Saudi Arabia,Italy,Middle East and North Africa,2127115.3
+SAU,JPN,Saudi Arabia,Japan,Middle East and North Africa,18859279.4
+SAU,JOR,Saudi Arabia,Jordan,Middle East and North Africa,1220372.4
+SAU,KOR,Saudi Arabia,"Korea, Rep.",Middle East and North Africa,14903641.8
+SAU,MYS,Saudi Arabia,Malaysia,Middle East and North Africa,1353244.1
+SAU,NLD,Saudi Arabia,Netherlands,Middle East and North Africa,1581929.7
+SAU,PHL,Saudi Arabia,Philippines,Middle East and North Africa,1025858.2
+SAU,IND,Saudi Arabia,India,Middle East and North Africa,13922644.9
+SAU,SGP,Saudi Arabia,Singapore,Middle East and North Africa,5638586.1
+SAU,ZAF,Saudi Arabia,South Africa,Middle East and North Africa,2461794.5
+SAU,ESP,Saudi Arabia,Spain,Middle East and North Africa,2695327.0
+SAU,THA,Saudi Arabia,Thailand,Middle East and North Africa,4180461.1
+SAU,EGY,Saudi Arabia,Egypt,Middle East and North Africa,1306341.0
+SAU,GBR,Saudi Arabia,United Kingdom,Middle East and North Africa,1087947.6
+SAU,USA,Saudi Arabia,United States,Middle East and North Africa,16763208.0
+IND,BGD,India,Bangladesh,South Asia,1450955.1
+IND,BEL,India,Belgium,South Asia,2140973.3
+IND,CHN,India,China,South Asia,4938702.4
+IND,GIB,India,Gibraltar,South Asia,1664771.0
+IND,HKG,India,"China, Hong Kong SAR",South Asia,10516206.1
+IND,KOR,India,"Korea, Rep.",South Asia,1068216.8
+IND,SAU,India,Saudi Arabia,South Asia,1378791.1
+IND,SGP,India,Singapore,South Asia,3195306.6
+IND,VNM,India,Vietnam,South Asia,4134256.7
+IND,ARE,India,United Arab Emirates,South Asia,8736958.9
+IND,TUR,India,Turkey,South Asia,1505373.1
+IND,USA,India,United States,South Asia,13632889.3
+SGP,AUS,Singapore,Australia,Southeast Asia,2829168.0
+SGP,MMR,Singapore,Myanmar,Southeast Asia,1263886.0
+SGP,CHN,Singapore,China,Southeast Asia,4890455.0
+SGP,HKG,Singapore,"China, Hong Kong SAR",Southeast Asia,2010229.9
+SGP,IDN,Singapore,Indonesia,Southeast Asia,6790732.6
+SGP,MYS,Singapore,Malaysia,Southeast Asia,7173819.8
+SGP,VNM,Singapore,Vietnam,Southeast Asia,2323975.8
+SGP,ZWE,Singapore,Zimbabwe,Southeast Asia,1104509.8
+SGP,CHE,Singapore,Switzerland,Southeast Asia,1711195.7
+VNM,CHN,Vietnam,China,Southeast Asia,7027231.6
+VNM,DEU,Vietnam,Germany,Southeast Asia,1011913.1
+VNM,USA,Vietnam,United States,Southeast Asia,3025258.0
+ZAF,CHN,South Africa,China,Sub-Saharan Africa,13793107.4
+ZAF,DEU,South Africa,Germany,Sub-Saharan Africa,1529698.5
+ZAF,HKG,South Africa,"China, Hong Kong SAR",Sub-Saharan Africa,3866169.2
+ZAF,JPN,South Africa,Japan,Sub-Saharan Africa,2747334.3
+ZAF,IND,South Africa,India,Sub-Saharan Africa,4124569.7
+ZAF,USA,South Africa,United States,Sub-Saharan Africa,2560319.2
+ESP,CHN,Spain,China,Europe,2299564.0
+ESP,FRA,Spain,France,Europe,9220292.0
+ESP,DEU,Spain,Germany,Europe,6417360.8
+ESP,ITA,Spain,Italy,Europe,6134743.1
+ESP,NLD,Spain,Netherlands,Europe,2781189.2
+ESP,PRT,Spain,Portugal,Europe,6156720.9
+ESP,GBR,Spain,United Kingdom,Europe,4336438.4
+ESP,USA,Spain,United States,Europe,2511142.4
+SSD,CHN,South Sudan,China,Sub-Saharan Africa,1459751.3
+SDN,ARE,Sudan,United Arab Emirates,Sub-Saharan Africa,1774149.1
+SWE,DEU,Sweden,Germany,Europe,2602436.1
+SWE,GBR,Sweden,United Kingdom,Europe,1364112.5
+CHE,CHN,Switzerland,China,Europe,23180264.8
+CHE,FRA,Switzerland,France,Europe,2457206.6
+CHE,DEU,Switzerland,Germany,Europe,3820548.8
+CHE,HKG,Switzerland,"China, Hong Kong SAR",Europe,12648800.2
+CHE,ITA,Switzerland,Italy,Europe,1919077.2
+CHE,IND,Switzerland,India,Europe,13088374.1
+CHE,SGP,Switzerland,Singapore,Europe,1854116.0
+CHE,THA,Switzerland,Thailand,Europe,1933207.1
+CHE,ARE,Switzerland,United Arab Emirates,Europe,1124786.0
+CHE,GBR,Switzerland,United Kingdom,Europe,8790401.9
+CHE,USA,Switzerland,United States,Europe,3147476.6
+THA,CHN,Thailand,China,Southeast Asia,10967136.8
+THA,IDN,Thailand,Indonesia,Southeast Asia,1432542.4
+THA,JPN,Thailand,Japan,Southeast Asia,1839889.4
+THA,MYS,Thailand,Malaysia,Southeast Asia,1320734.0
+THA,SGP,Thailand,Singapore,Southeast Asia,2568528.5
+THA,VNM,Thailand,Vietnam,Southeast Asia,1182310.0
+THA,CHE,Thailand,Switzerland,Southeast Asia,4088220.5
+THA,USA,Thailand,United States,Southeast Asia,1769339.9
+TTO,USA,Trinidad and Tobago,United States,Caribbean and Central America,1261864.9
+ARE,AUS,United Arab Emirates,Australia,Middle East and North Africa,1120843.4
+ARE,BEL,United Arab Emirates,Belgium,Middle East and North Africa,2152203.5
+ARE,CHN,United Arab Emirates,China,Middle East and North Africa,6867330.2
+ARE,JPN,United Arab Emirates,Japan,Middle East and North Africa,16084831.0
+ARE,KOR,United Arab Emirates,"Korea, Rep.",Middle East and North Africa,4691457.4
+ARE,OMN,United Arab Emirates,Oman,Middle East and North Africa,1193931.9
+ARE,PAK,United Arab Emirates,Pakistan,Middle East and North Africa,2460033.0
+ARE,SAU,United Arab Emirates,Saudi Arabia,Middle East and North Africa,2106901.5
+ARE,IND,United Arab Emirates,India,Middle East and North Africa,14976005.5
+ARE,SGP,United Arab Emirates,Singapore,Middle East and North Africa,4110378.0
+ARE,CHE,United Arab Emirates,Switzerland,Middle East and North Africa,9995296.2
+ARE,THA,United Arab Emirates,Thailand,Middle East and North Africa,5193346.4
+ARE,TUR,United Arab Emirates,Turkey,Middle East and North Africa,3115275.8
+ARE,USA,United Arab Emirates,United States,Middle East and North Africa,1129491.3
+TUR,CHN,Turkey,China,Europe,1429403.8
+TUR,DEU,Turkey,Germany,Europe,1019810.5
+TUR,IRN,Turkey,Iran,Europe,1421647.1
+TUR,IRQ,Turkey,Iraq,Europe,1959374.5
+TUR,CHE,Turkey,Switzerland,Europe,1898799.8
+TUR,ARE,Turkey,United Arab Emirates,Europe,2622599.9
+TUR,GBR,Turkey,United Kingdom,Europe,3407300.1
+TUR,USA,Turkey,United States,Europe,1244569.7
+TKM,CHN,Turkmenistan,China,Central and Northern Asia,5480969.4
+UKR,CHN,Ukraine,China,Central and Northern Asia,2269322.5
+UKR,ITA,Ukraine,Italy,Central and Northern Asia,1177175.0
+UKR,IND,Ukraine,India,Central and Northern Asia,1640483.9
+UKR,TUR,Ukraine,Turkey,Central and Northern Asia,1214469.5
+UKR,EGY,Ukraine,Egypt,Central and Northern Asia,1075731.4
+EGY,ARE,Egypt,United Arab Emirates,Middle East and North Africa,1462441.6
+GBR,BEL,United Kingdom,Belgium,Europe,2818174.1
+GBR,CHN,United Kingdom,China,Europe,3139672.9
+GBR,FRA,United Kingdom,France,Europe,2900159.2
+GBR,DEU,United Kingdom,Germany,Europe,4953884.6
+GBR,IRL,United Kingdom,Ireland,Europe,3817908.5
+GBR,ISR,United Kingdom,Israel,Europe,1156021.7
+GBR,KOR,United Kingdom,"Korea, Rep.",Europe,1059171.9
+GBR,NLD,United Kingdom,Netherlands,Europe,8117256.4
+GBR,IND,United Kingdom,India,Europe,1040524.7
+GBR,ESP,United Kingdom,Spain,Europe,1106401.0
+GBR,CHE,United Kingdom,Switzerland,Europe,11261435.9
+GBR,USA,United Kingdom,United States,Europe,4296763.7
+USA,ARG,United States,Argentina,North America,1266126.3
+USA,BRA,United States,Brazil,North America,4604665.9
+USA,CAN,United States,Canada,North America,41837516.2
+USA,CHL,United States,Chile,North America,3128334.7
+USA,CHN,United States,China,North America,36957970.5
+USA,COL,United States,Colombia,North America,5136203.5
+USA,CRI,United States,Costa Rica,North America,1139034.6
+USA,DOM,United States,Dominican Rep.,North America,2380053.4
+USA,ECU,United States,Ecuador,North America,2163066.5
+USA,FRA,United States,France,North America,2416457.8
+USA,DEU,United States,Germany,North America,4966405.3
+USA,GIB,United States,Gibraltar,North America,1203365.7
+USA,GTM,United States,Guatemala,North America,1845774.9
+USA,HND,United States,Honduras,North America,1012954.8
+USA,HKG,United States,"China, Hong Kong SAR",North America,6059394.6
+USA,IDN,United States,Indonesia,North America,2215474.7
+USA,ITA,United States,Italy,North America,2142161.5
+USA,JPN,United States,Japan,North America,16188668.0
+USA,KOR,United States,"Korea, Rep.",North America,9098681.7
+USA,MEX,United States,Mexico,North America,45703031.7
+USA,NLD,United States,Netherlands,North America,5396149.5
+USA,PAN,United States,Panama,North America,1742558.4
+USA,PER,United States,Peru,North America,3083470.5
+USA,PHL,United States,Philippines,North America,1917336.2
+USA,IND,United States,India,North America,5136466.2
+USA,SGP,United States,Singapore,North America,1813845.8
+USA,VNM,United States,Vietnam,North America,3772664.3
+USA,ESP,United States,Spain,North America,1585912.3
+USA,CHE,United States,Switzerland,North America,7897417.9
+USA,THA,United States,Thailand,North America,1504500.6
+USA,TUR,United States,Turkey,North America,1185896.8
+USA,GBR,United States,United Kingdom,North America,7074734.2
+USA,VEN,United States,Venezuela,North America,1682963.1
+BFA,CHE,Burkina Faso,Switzerland,Sub-Saharan Africa,1212648.2
+URY,CHN,Uruguay,China,South America,1175262.9
+UZB,CHE,Uzbekistan,Switzerland,Central and Northern Asia,2861265.2
+VEN,CHN,Venezuela,China,South America,5169054.4
+VEN,IND,Venezuela,India,South America,5071877.7
+VEN,SGP,Venezuela,Singapore,South America,1139253.5
+VEN,CHE,Venezuela,Switzerland,South America,2908300.5
+VEN,USA,Venezuela,United States,South America,10924051.9
+ZMB,CHN,Zambia,China,Sub-Saharan Africa,2025854.9

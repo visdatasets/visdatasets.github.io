@@ -1,0 +1,1482 @@
+Zone,Station,Distance,TrainName,TrainType,Direction,TimeString,Time
+4,San Jose Diridon,47.5,101,Local,Northbound,4:28am,268
+4,Santa Clara,44.7,101,Local,Northbound,4:33am,273
+4,Lawrence,40.8,101,Local,Northbound,4:39am,279
+3,Sunnyvale,38.8,101,Local,Northbound,4:43am,283
+3,Mountain View,36.1,101,Local,Northbound,4:48am,288
+3,San Antonio,34.1,101,Local,Northbound,4:52am,292
+3,California Ave,31.8,101,Local,Northbound,4:57am,297
+3,Palo Alto,30.1,101,Local,Northbound,5:01am,301
+3,Menlo Park,28.9,101,Local,Northbound,5:04am,304
+2,Redwood City,25.4,101,Local,Northbound,5:10am,310
+2,San Carlos,23.2,101,Local,Northbound,5:15am,315
+2,Belmont,21.9,101,Local,Northbound,5:18am,318
+2,Hillsdale,20.3,101,Local,Northbound,5:22am,322
+2,Hayward Park,19.1,101,Local,Northbound,5:25am,325
+2,San Mateo,17.9,101,Local,Northbound,5:28am,328
+2,Burlingame,16.3,101,Local,Northbound,5:32am,332
+2,Millbrae,13.7,101,Local,Northbound,5:36am,336
+1,San Bruno,11.6,101,Local,Northbound,5:41am,341
+1,So. San Francisco,9.3,101,Local,Northbound,5:45am,345
+1,Bayshore,5.2,101,Local,Northbound,5:51am,351
+1,22nd Street,1.9,101,Local,Northbound,5:57am,357
+1,San Francisco,0.2,101,Local,Northbound,6:03am,363
+4,Tamien,49.1,103,Local,Northbound,4:55am,295
+4,San Jose Diridon,47.5,103,Local,Northbound,5:03am,303
+4,Santa Clara,44.7,103,Local,Northbound,5:08am,308
+4,Lawrence,40.8,103,Local,Northbound,5:13am,313
+3,Sunnyvale,38.8,103,Local,Northbound,5:18am,318
+3,Mountain View,36.1,103,Local,Northbound,5:23am,323
+3,San Antonio,34.1,103,Local,Northbound,5:27am,327
+3,California Ave,31.8,103,Local,Northbound,5:31am,331
+3,Palo Alto,30.1,103,Local,Northbound,5:36am,336
+3,Menlo Park,28.9,103,Local,Northbound,5:39am,339
+2,Redwood City,25.4,103,Local,Northbound,5:44am,344
+2,San Carlos,23.2,103,Local,Northbound,5:49am,349
+2,Belmont,21.9,103,Local,Northbound,5:52am,352
+2,Hillsdale,20.3,103,Local,Northbound,5:56am,356
+2,Hayward Park,19.1,103,Local,Northbound,5:59am,359
+2,San Mateo,17.9,103,Local,Northbound,6:03am,363
+2,Burlingame,16.3,103,Local,Northbound,6:06am,366
+2,Millbrae,13.7,103,Local,Northbound,6:11am,371
+1,San Bruno,11.6,103,Local,Northbound,6:16am,376
+1,So. San Francisco,9.3,103,Local,Northbound,6:20am,380
+1,Bayshore,5.2,103,Local,Northbound,6:26am,386
+1,22nd Street,1.9,103,Local,Northbound,6:32am,392
+1,San Francisco,0.2,103,Local,Northbound,6:38am,398
+4,San Jose Diridon,47.5,305,Baby Bullet,Northbound,5:45am,345
+3,Mountain View,36.1,305,Baby Bullet,Northbound,6:00am,360
+3,Palo Alto,30.1,305,Baby Bullet,Northbound,6:08am,368
+2,Hillsdale,20.3,305,Baby Bullet,Northbound,6:18am,378
+2,Millbrae,13.7,305,Baby Bullet,Northbound,6:26am,386
+1,San Francisco,0.2,305,Baby Bullet,Northbound,6:47am,407
+4,Tamien,49.1,207,Limited-stop,Northbound,5:51am,351
+4,San Jose Diridon,47.5,207,Limited-stop,Northbound,5:59am,359
+4,Santa Clara,44.7,207,Limited-stop,Northbound,6:06am,366
+4,Lawrence,40.8,207,Limited-stop,Northbound,6:12am,372
+3,Sunnyvale,38.8,207,Limited-stop,Northbound,6:20am,380
+3,Mountain View,36.1,207,Limited-stop,Northbound,6:25am,385
+3,San Antonio,34.1,207,Limited-stop,Northbound,6:29am,389
+3,California Ave,31.8,207,Limited-stop,Northbound,6:34am,394
+3,Palo Alto,30.1,207,Limited-stop,Northbound,6:38am,398
+3,Menlo Park,28.9,207,Limited-stop,Northbound,6:41am,401
+2,Redwood City,25.4,207,Limited-stop,Northbound,6:47am,407
+2,Hillsdale,20.3,207,Limited-stop,Northbound,6:54am,414
+2,Millbrae,13.7,207,Limited-stop,Northbound,7:03am,423
+1,So. San Francisco,9.3,207,Limited-stop,Northbound,7:09am,429
+1,San Francisco,0.2,207,Limited-stop,Northbound,7:24am,444
+4,Tamien,49.1,309,Baby Bullet,Northbound,5:56am,356
+4,San Jose Diridon,47.5,309,Baby Bullet,Northbound,6:04am,364
+3,Sunnyvale,38.8,309,Baby Bullet,Northbound,6:14am,374
+3,Palo Alto,30.1,309,Baby Bullet,Northbound,6:26am,386
+2,Redwood City,25.4,309,Baby Bullet,Northbound,6:32am,392
+2,San Mateo,17.9,309,Baby Bullet,Northbound,6:43am,403
+2,Millbrae,13.7,309,Baby Bullet,Northbound,6:51am,411
+1,San Francisco,0.2,309,Baby Bullet,Northbound,7:08am,428
+4,San Jose Diridon,47.5,211,Limited-stop,Northbound,6:23am,383
+4,Santa Clara,44.7,211,Limited-stop,Northbound,6:28am,388
+3,Sunnyvale,38.8,211,Limited-stop,Northbound,6:36am,396
+3,Mountain View,36.1,211,Limited-stop,Northbound,6:42am,402
+3,California Ave,31.8,211,Limited-stop,Northbound,6:48am,408
+3,Menlo Park,28.9,211,Limited-stop,Northbound,6:54am,414
+2,Redwood City,25.4,211,Limited-stop,Northbound,6:59am,419
+2,San Carlos,23.2,211,Limited-stop,Northbound,7:04am,424
+2,Belmont,21.9,211,Limited-stop,Northbound,7:07am,427
+2,Hillsdale,20.3,211,Limited-stop,Northbound,7:11am,431
+2,Hayward Park,19.1,211,Limited-stop,Northbound,7:14am,434
+2,San Mateo,17.9,211,Limited-stop,Northbound,7:18am,438
+2,Burlingame,16.3,211,Limited-stop,Northbound,7:21am,441
+2,Millbrae,13.7,211,Limited-stop,Northbound,7:26am,446
+1,San Bruno,11.6,211,Limited-stop,Northbound,7:30am,450
+1,So. San Francisco,9.3,211,Limited-stop,Northbound,7:34am,454
+1,Bayshore,5.2,211,Limited-stop,Northbound,7:41am,461
+1,22nd Street,1.9,211,Limited-stop,Northbound,7:50am,470
+1,San Francisco,0.2,211,Limited-stop,Northbound,7:57am,477
+4,San Jose Diridon,47.5,313,Baby Bullet,Northbound,6:49am,409
+3,Mountain View,36.1,313,Baby Bullet,Northbound,7:04am,424
+3,Palo Alto,30.1,313,Baby Bullet,Northbound,7:12am,432
+2,Hillsdale,20.3,313,Baby Bullet,Northbound,7:23am,443
+2,Millbrae,13.7,313,Baby Bullet,Northbound,7:31am,451
+1,San Francisco,0.2,313,Baby Bullet,Northbound,7:51am,471
+4,San Jose Diridon,47.5,215,Limited-stop,Northbound,6:54am,414
+3,Sunnyvale,38.8,215,Limited-stop,Northbound,7:06am,426
+3,Mountain View,36.1,215,Limited-stop,Northbound,7:11am,431
+3,California Ave,31.8,215,Limited-stop,Northbound,7:17am,437
+3,Palo Alto,30.1,215,Limited-stop,Northbound,7:21am,441
+2,San Carlos,23.2,215,Limited-stop,Northbound,7:29am,449
+2,Hillsdale,20.3,215,Limited-stop,Northbound,7:34am,454
+2,San Mateo,17.9,215,Limited-stop,Northbound,7:38am,458
+2,Burlingame,16.3,215,Limited-stop,Northbound,7:43am,463
+1,San Bruno,11.6,215,Limited-stop,Northbound,7:50am,470
+1,San Francisco,0.2,215,Limited-stop,Northbound,8:07am,487
+6,Gilroy,77.4,217,Limited-stop,Northbound,6:06am,366
+6,San Martin,71.2,217,Limited-stop,Northbound,6:15am,375
+6,Morgan Hill,67.5,217,Limited-stop,Northbound,6:21am,381
+5,Blossom Hill,55.7,217,Limited-stop,Northbound,6:36am,396
+5,Capitol,52.4,217,Limited-stop,Northbound,6:42am,402
+4,Tamien,49.1,217,Limited-stop,Northbound,6:50am,410
+4,San Jose Diridon,47.5,217,Limited-stop,Northbound,6:59am,419
+4,Santa Clara,44.7,217,Limited-stop,Northbound,7:06am,426
+4,Lawrence,40.8,217,Limited-stop,Northbound,7:12am,432
+3,Sunnyvale,38.8,217,Limited-stop,Northbound,7:20am,440
+3,Mountain View,36.1,217,Limited-stop,Northbound,7:25am,445
+3,San Antonio,34.1,217,Limited-stop,Northbound,7:29am,449
+3,California Ave,31.8,217,Limited-stop,Northbound,7:34am,454
+3,Palo Alto,30.1,217,Limited-stop,Northbound,7:38am,458
+3,Menlo Park,28.9,217,Limited-stop,Northbound,7:41am,461
+2,Redwood City,25.4,217,Limited-stop,Northbound,7:47am,467
+2,Hillsdale,20.3,217,Limited-stop,Northbound,7:54am,474
+2,Millbrae,13.7,217,Limited-stop,Northbound,8:03am,483
+1,So. San Francisco,9.3,217,Limited-stop,Northbound,8:09am,489
+1,San Francisco,0.2,217,Limited-stop,Northbound,8:24am,504
+4,Tamien,49.1,319,Baby Bullet,Northbound,6:56am,416
+4,San Jose Diridon,47.5,319,Baby Bullet,Northbound,7:04am,424
+3,Sunnyvale,38.8,319,Baby Bullet,Northbound,7:14am,434
+3,Palo Alto,30.1,319,Baby Bullet,Northbound,7:26am,446
+2,Redwood City,25.4,319,Baby Bullet,Northbound,7:32am,452
+2,San Mateo,17.9,319,Baby Bullet,Northbound,7:43am,463
+2,Millbrae,13.7,319,Baby Bullet,Northbound,7:51am,471
+1,San Francisco,0.2,319,Baby Bullet,Northbound,8:11am,491
+6,Gilroy,77.4,221,Limited-stop,Northbound,6:28am,388
+6,San Martin,71.2,221,Limited-stop,Northbound,6:37am,397
+6,Morgan Hill,67.5,221,Limited-stop,Northbound,6:43am,403
+5,Blossom Hill,55.7,221,Limited-stop,Northbound,6:58am,418
+5,Capitol,52.4,221,Limited-stop,Northbound,7:04am,424
+4,Tamien,49.1,221,Limited-stop,Northbound,7:15am,435
+4,San Jose Diridon,47.5,221,Limited-stop,Northbound,7:23am,443
+4,Santa Clara,44.7,221,Limited-stop,Northbound,7:28am,448
+4,Lawrence,40.8,221,Limited-stop,Northbound,7:33am,453
+3,Sunnyvale,38.8,221,Limited-stop,Northbound,7:38am,458
+3,Mountain View,36.1,221,Limited-stop,Northbound,7:44am,464
+3,California Ave,31.8,221,Limited-stop,Northbound,7:49am,469
+3,Menlo Park,28.9,221,Limited-stop,Northbound,7:54am,474
+2,Redwood City,25.4,221,Limited-stop,Northbound,8:00am,480
+2,San Carlos,23.2,221,Limited-stop,Northbound,8:05am,485
+2,Belmont,21.9,221,Limited-stop,Northbound,8:08am,488
+2,Hillsdale,20.3,221,Limited-stop,Northbound,8:12am,492
+2,Hayward Park,19.1,221,Limited-stop,Northbound,8:15am,495
+2,San Mateo,17.9,221,Limited-stop,Northbound,8:19am,499
+2,Burlingame,16.3,221,Limited-stop,Northbound,8:22am,502
+2,Millbrae,13.7,221,Limited-stop,Northbound,8:27am,507
+1,San Bruno,11.6,221,Limited-stop,Northbound,8:31am,511
+1,So. San Francisco,9.3,221,Limited-stop,Northbound,8:35am,515
+1,Bayshore,5.2,221,Limited-stop,Northbound,8:43am,523
+1,22nd Street,1.9,221,Limited-stop,Northbound,8:51am,531
+1,San Francisco,0.2,221,Limited-stop,Northbound,8:58am,538
+4,San Jose Diridon,47.5,323,Baby Bullet,Northbound,7:49am,469
+3,Mountain View,36.1,323,Baby Bullet,Northbound,8:04am,484
+3,Palo Alto,30.1,323,Baby Bullet,Northbound,8:12am,492
+2,Hillsdale,20.3,323,Baby Bullet,Northbound,8:24am,504
+2,Millbrae,13.7,323,Baby Bullet,Northbound,8:33am,513
+1,San Francisco,0.2,323,Baby Bullet,Northbound,8:53am,533
+4,San Jose Diridon,47.5,225,Limited-stop,Northbound,7:54am,474
+3,Sunnyvale,38.8,225,Limited-stop,Northbound,8:06am,486
+3,Mountain View,36.1,225,Limited-stop,Northbound,8:11am,491
+3,California Ave,31.8,225,Limited-stop,Northbound,8:17am,497
+3,Palo Alto,30.1,225,Limited-stop,Northbound,8:21am,501
+2,San Carlos,23.2,225,Limited-stop,Northbound,8:29am,509
+2,Hillsdale,20.3,225,Limited-stop,Northbound,8:34am,514
+2,San Mateo,17.9,225,Limited-stop,Northbound,8:38am,518
+2,Burlingame,16.3,225,Limited-stop,Northbound,8:43am,523
+1,San Bruno,11.6,225,Limited-stop,Northbound,8:50am,530
+1,San Francisco,0.2,225,Limited-stop,Northbound,9:07am,547
+6,Gilroy,77.4,227,Limited-stop,Northbound,7:06am,426
+6,San Martin,71.2,227,Limited-stop,Northbound,7:15am,435
+6,Morgan Hill,67.5,227,Limited-stop,Northbound,7:21am,441
+5,Blossom Hill,55.7,227,Limited-stop,Northbound,7:36am,456
+5,Capitol,52.4,227,Limited-stop,Northbound,7:42am,462
+4,Tamien,49.1,227,Limited-stop,Northbound,7:53am,473
+4,San Jose Diridon,47.5,227,Limited-stop,Northbound,7:59am,479
+4,College Park,46.3,227,Limited-stop,Northbound,8:03am,483
+4,Santa Clara,44.7,227,Limited-stop,Northbound,8:08am,488
+4,Lawrence,40.8,227,Limited-stop,Northbound,8:15am,495
+3,Sunnyvale,38.8,227,Limited-stop,Northbound,8:22am,502
+3,Mountain View,36.1,227,Limited-stop,Northbound,8:28am,508
+3,San Antonio,34.1,227,Limited-stop,Northbound,8:32am,512
+3,California Ave,31.8,227,Limited-stop,Northbound,8:36am,516
+3,Palo Alto,30.1,227,Limited-stop,Northbound,8:41am,521
+3,Menlo Park,28.9,227,Limited-stop,Northbound,8:44am,524
+2,Redwood City,25.4,227,Limited-stop,Northbound,8:51am,531
+2,Hillsdale,20.3,227,Limited-stop,Northbound,8:59am,539
+2,Millbrae,13.7,227,Limited-stop,Northbound,9:08am,548
+1,So. San Francisco,9.3,227,Limited-stop,Northbound,9:14am,554
+1,San Francisco,0.2,227,Limited-stop,Northbound,9:29am,569
+4,Tamien,49.1,329,Baby Bullet,Northbound,7:59am,479
+4,San Jose Diridon,47.5,329,Baby Bullet,Northbound,8:04am,484
+3,Sunnyvale,38.8,329,Baby Bullet,Northbound,8:14am,494
+3,Palo Alto,30.1,329,Baby Bullet,Northbound,8:27am,507
+2,Redwood City,25.4,329,Baby Bullet,Northbound,8:34am,514
+2,San Mateo,17.9,329,Baby Bullet,Northbound,8:44am,524
+2,Millbrae,13.7,329,Baby Bullet,Northbound,8:52am,532
+1,San Francisco,0.2,329,Baby Bullet,Northbound,9:11am,551
+4,San Jose Diridon,47.5,231,Limited-stop,Northbound,8:23am,503
+4,Santa Clara,44.7,231,Limited-stop,Northbound,8:28am,508
+3,Sunnyvale,38.8,231,Limited-stop,Northbound,8:36am,516
+3,Mountain View,36.1,231,Limited-stop,Northbound,8:42am,522
+3,Menlo Park,28.9,231,Limited-stop,Northbound,8:51am,531
+2,Redwood City,25.4,231,Limited-stop,Northbound,8:57am,537
+2,San Carlos,23.2,231,Limited-stop,Northbound,9:02am,542
+2,Belmont,21.9,231,Limited-stop,Northbound,9:05am,545
+2,Hillsdale,20.3,231,Limited-stop,Northbound,9:09am,549
+2,Hayward Park,19.1,231,Limited-stop,Northbound,9:12am,552
+2,San Mateo,17.9,231,Limited-stop,Northbound,9:15am,555
+2,Burlingame,16.3,231,Limited-stop,Northbound,9:19am,559
+2,Millbrae,13.7,231,Limited-stop,Northbound,9:24am,564
+1,San Bruno,11.6,231,Limited-stop,Northbound,9:28am,568
+1,So. San Francisco,9.3,231,Limited-stop,Northbound,9:32am,572
+1,Bayshore,5.2,231,Limited-stop,Northbound,9:39am,579
+1,22nd Street,1.9,231,Limited-stop,Northbound,9:45am,585
+1,San Francisco,0.2,231,Limited-stop,Northbound,9:52am,592
+4,Tamien,49.1,233,Limited-stop,Northbound,8:28am,508
+4,San Jose Diridon,47.5,233,Limited-stop,Northbound,8:39am,519
+4,Santa Clara,44.7,233,Limited-stop,Northbound,8:44am,524
+4,Lawrence,40.8,233,Limited-stop,Northbound,8:50am,530
+3,Sunnyvale,38.8,233,Limited-stop,Northbound,8:55am,535
+3,Mountain View,36.1,233,Limited-stop,Northbound,9:00am,540
+3,San Antonio,34.1,233,Limited-stop,Northbound,9:04am,544
+3,California Ave,31.8,233,Limited-stop,Northbound,9:09am,549
+3,Palo Alto,30.1,233,Limited-stop,Northbound,9:14am,554
+3,Menlo Park,28.9,233,Limited-stop,Northbound,9:17am,557
+2,Redwood City,25.4,233,Limited-stop,Northbound,9:24am,564
+2,San Carlos,23.2,233,Limited-stop,Northbound,9:28am,568
+2,Belmont,21.9,233,Limited-stop,Northbound,9:32am,572
+2,Hillsdale,20.3,233,Limited-stop,Northbound,9:35am,575
+2,San Mateo,17.9,233,Limited-stop,Northbound,9:40am,580
+2,Burlingame,16.3,233,Limited-stop,Northbound,9:43am,583
+2,Millbrae,13.7,233,Limited-stop,Northbound,9:48am,588
+1,San Bruno,11.6,233,Limited-stop,Northbound,9:53am,593
+1,San Francisco,0.2,233,Limited-stop,Northbound,10:09am,609
+4,San Jose Diridon,47.5,135,Local,Northbound,9:13am,553
+4,Santa Clara,44.7,135,Local,Northbound,9:18am,558
+4,Lawrence,40.8,135,Local,Northbound,9:24am,564
+3,Sunnyvale,38.8,135,Local,Northbound,9:29am,569
+3,Mountain View,36.1,135,Local,Northbound,9:34am,574
+3,San Antonio,34.1,135,Local,Northbound,9:38am,578
+3,California Ave,31.8,135,Local,Northbound,9:42am,582
+3,Palo Alto,30.1,135,Local,Northbound,9:47am,587
+3,Menlo Park,28.9,135,Local,Northbound,9:50am,590
+2,Redwood City,25.4,135,Local,Northbound,9:57am,597
+2,San Carlos,23.2,135,Local,Northbound,10:01am,601
+2,Belmont,21.9,135,Local,Northbound,10:05am,605
+2,Hillsdale,20.3,135,Local,Northbound,10:08am,608
+2,Hayward Park,19.1,135,Local,Northbound,10:11am,611
+2,San Mateo,17.9,135,Local,Northbound,10:14am,614
+2,Burlingame,16.3,135,Local,Northbound,10:17am,617
+2,Millbrae,13.7,135,Local,Northbound,10:22am,622
+1,San Bruno,11.6,135,Local,Northbound,10:27am,627
+1,So. San Francisco,9.3,135,Local,Northbound,10:31am,631
+1,Bayshore,5.2,135,Local,Northbound,10:37am,637
+1,22nd Street,1.9,135,Local,Northbound,10:43am,643
+1,San Francisco,0.2,135,Local,Northbound,10:50am,650
+4,Tamien,49.1,237,Limited-stop,Northbound,9:37am,577
+4,San Jose Diridon,47.5,237,Limited-stop,Northbound,9:50am,590
+4,Santa Clara,44.7,237,Limited-stop,Northbound,9:55am,595
+4,Lawrence,40.8,237,Limited-stop,Northbound,10:00am,600
+3,Sunnyvale,38.8,237,Limited-stop,Northbound,10:05am,605
+3,Mountain View,36.1,237,Limited-stop,Northbound,10:10am,610
+3,San Antonio,34.1,237,Limited-stop,Northbound,10:14am,614
+3,California Ave,31.8,237,Limited-stop,Northbound,10:18am,618
+3,Palo Alto,30.1,237,Limited-stop,Northbound,10:23am,623
+3,Menlo Park,28.9,237,Limited-stop,Northbound,10:26am,626
+2,Redwood City,25.4,237,Limited-stop,Northbound,10:32am,632
+2,San Carlos,23.2,237,Limited-stop,Northbound,10:37am,637
+2,Belmont,21.9,237,Limited-stop,Northbound,10:40am,640
+2,Hillsdale,20.3,237,Limited-stop,Northbound,10:44am,644
+2,San Mateo,17.9,237,Limited-stop,Northbound,10:49am,649
+2,Burlingame,16.3,237,Limited-stop,Northbound,10:52am,652
+2,Millbrae,13.7,237,Limited-stop,Northbound,10:57am,657
+1,San Bruno,11.6,237,Limited-stop,Northbound,11:02am,662
+1,San Francisco,0.2,237,Limited-stop,Northbound,11:17am,677
+4,San Jose Diridon,47.5,139,Local,Northbound,10:13am,613
+4,Santa Clara,44.7,139,Local,Northbound,10:18am,618
+4,Lawrence,40.8,139,Local,Northbound,10:24am,624
+3,Sunnyvale,38.8,139,Local,Northbound,10:28am,628
+3,Mountain View,36.1,139,Local,Northbound,10:33am,633
+3,San Antonio,34.1,139,Local,Northbound,10:37am,637
+3,California Ave,31.8,139,Local,Northbound,10:42am,642
+3,Palo Alto,30.1,139,Local,Northbound,10:47am,647
+3,Menlo Park,28.9,139,Local,Northbound,10:50am,650
+2,Redwood City,25.4,139,Local,Northbound,10:55am,655
+2,San Carlos,23.2,139,Local,Northbound,10:59am,659
+2,Belmont,21.9,139,Local,Northbound,11:03am,663
+2,Hillsdale,20.3,139,Local,Northbound,11:06am,666
+2,Hayward Park,19.1,139,Local,Northbound,11:09am,669
+2,San Mateo,17.9,139,Local,Northbound,11:12am,672
+2,Burlingame,16.3,139,Local,Northbound,11:15am,675
+2,Millbrae,13.7,139,Local,Northbound,11:20am,680
+1,San Bruno,11.6,139,Local,Northbound,11:25am,685
+1,So. San Francisco,9.3,139,Local,Northbound,11:29am,689
+1,Bayshore,5.2,139,Local,Northbound,11:35am,695
+1,22nd Street,1.9,139,Local,Northbound,11:41am,701
+1,San Francisco,0.2,139,Local,Northbound,11:48am,708
+4,San Jose Diridon,47.5,143,Local,Northbound,11:13am,673
+4,Santa Clara,44.7,143,Local,Northbound,11:18am,678
+4,Lawrence,40.8,143,Local,Northbound,11:24am,684
+3,Sunnyvale,38.8,143,Local,Northbound,11:28am,688
+3,Mountain View,36.1,143,Local,Northbound,11:33am,693
+3,San Antonio,34.1,143,Local,Northbound,11:37am,697
+3,California Ave,31.8,143,Local,Northbound,11:41am,701
+3,Palo Alto,30.1,143,Local,Northbound,11:46am,706
+3,Menlo Park,28.9,143,Local,Northbound,11:49am,709
+2,Redwood City,25.4,143,Local,Northbound,11:55am,715
+2,San Carlos,23.2,143,Local,Northbound,11:59am,719
+2,Belmont,21.9,143,Local,Northbound,12:03pm,723
+2,Hillsdale,20.3,143,Local,Northbound,12:06pm,726
+2,Hayward Park,19.1,143,Local,Northbound,12:09pm,729
+2,San Mateo,17.9,143,Local,Northbound,12:12pm,732
+2,Burlingame,16.3,143,Local,Northbound,12:15pm,735
+2,Millbrae,13.7,143,Local,Northbound,12:20pm,740
+1,San Bruno,11.6,143,Local,Northbound,12:25pm,745
+1,So. San Francisco,9.3,143,Local,Northbound,12:29pm,749
+1,Bayshore,5.2,143,Local,Northbound,12:35pm,755
+1,22nd Street,1.9,143,Local,Northbound,12:41pm,761
+1,San Francisco,0.2,143,Local,Northbound,12:48pm,768
+4,San Jose Diridon,47.5,147,Local,Northbound,12:13pm,733
+4,Santa Clara,44.7,147,Local,Northbound,12:18pm,738
+4,Lawrence,40.8,147,Local,Northbound,12:24pm,744
+3,Sunnyvale,38.8,147,Local,Northbound,12:28pm,748
+3,Mountain View,36.1,147,Local,Northbound,12:33pm,753
+3,San Antonio,34.1,147,Local,Northbound,12:37pm,757
+3,California Ave,31.8,147,Local,Northbound,12:41pm,761
+3,Palo Alto,30.1,147,Local,Northbound,12:46pm,766
+3,Menlo Park,28.9,147,Local,Northbound,12:49pm,769
+2,Redwood City,25.4,147,Local,Northbound,12:55pm,775
+2,San Carlos,23.2,147,Local,Northbound,12:59pm,779
+2,Belmont,21.9,147,Local,Northbound,1:03pm,783
+2,Hillsdale,20.3,147,Local,Northbound,1:06pm,786
+2,Hayward Park,19.1,147,Local,Northbound,1:09pm,789
+2,San Mateo,17.9,147,Local,Northbound,1:12pm,792
+2,Burlingame,16.3,147,Local,Northbound,1:15pm,795
+2,Millbrae,13.7,147,Local,Northbound,1:20pm,800
+1,San Bruno,11.6,147,Local,Northbound,1:25pm,805
+1,So. San Francisco,9.3,147,Local,Northbound,1:29pm,809
+1,Bayshore,5.2,147,Local,Northbound,1:35pm,815
+1,22nd Street,1.9,147,Local,Northbound,1:41pm,821
+1,San Francisco,0.2,147,Local,Northbound,1:48pm,828
+4,San Jose Diridon,47.5,151,Local,Northbound,1:13pm,793
+4,Santa Clara,44.7,151,Local,Northbound,1:18pm,798
+4,Lawrence,40.8,151,Local,Northbound,1:24pm,804
+3,Sunnyvale,38.8,151,Local,Northbound,1:28pm,808
+3,Mountain View,36.1,151,Local,Northbound,1:33pm,813
+3,San Antonio,34.1,151,Local,Northbound,1:37pm,817
+3,California Ave,31.8,151,Local,Northbound,1:41pm,821
+3,Palo Alto,30.1,151,Local,Northbound,1:46pm,826
+3,Menlo Park,28.9,151,Local,Northbound,1:49pm,829
+2,Redwood City,25.4,151,Local,Northbound,1:55pm,835
+2,San Carlos,23.2,151,Local,Northbound,1:59pm,839
+2,Belmont,21.9,151,Local,Northbound,2:03pm,843
+2,Hillsdale,20.3,151,Local,Northbound,2:06pm,846
+2,Hayward Park,19.1,151,Local,Northbound,2:09pm,849
+2,San Mateo,17.9,151,Local,Northbound,2:12pm,852
+2,Burlingame,16.3,151,Local,Northbound,2:15pm,855
+2,Millbrae,13.7,151,Local,Northbound,2:20pm,860
+1,San Bruno,11.6,151,Local,Northbound,2:25pm,865
+1,So. San Francisco,9.3,151,Local,Northbound,2:29pm,869
+1,Bayshore,5.2,151,Local,Northbound,2:35pm,875
+1,22nd Street,1.9,151,Local,Northbound,2:41pm,881
+1,San Francisco,0.2,151,Local,Northbound,2:48pm,888
+4,San Jose Diridon,47.5,155,Local,Northbound,2:13pm,853
+4,Santa Clara,44.7,155,Local,Northbound,2:18pm,858
+4,Lawrence,40.8,155,Local,Northbound,2:24pm,864
+3,Sunnyvale,38.8,155,Local,Northbound,2:28pm,868
+3,Mountain View,36.1,155,Local,Northbound,2:33pm,873
+3,San Antonio,34.1,155,Local,Northbound,2:37pm,877
+3,California Ave,31.8,155,Local,Northbound,2:41pm,881
+3,Palo Alto,30.1,155,Local,Northbound,2:46pm,886
+3,Menlo Park,28.9,155,Local,Northbound,2:49pm,889
+2,Redwood City,25.4,155,Local,Northbound,2:55pm,895
+2,San Carlos,23.2,155,Local,Northbound,2:59pm,899
+2,Belmont,21.9,155,Local,Northbound,3:03pm,903
+2,Hillsdale,20.3,155,Local,Northbound,3:06pm,906
+2,Hayward Park,19.1,155,Local,Northbound,3:09pm,909
+2,San Mateo,17.9,155,Local,Northbound,3:12pm,912
+2,Burlingame,16.3,155,Local,Northbound,3:15pm,915
+2,Millbrae,13.7,155,Local,Northbound,3:20pm,920
+1,San Bruno,11.6,155,Local,Northbound,3:25pm,925
+1,So. San Francisco,9.3,155,Local,Northbound,3:29pm,929
+1,Bayshore,5.2,155,Local,Northbound,3:35pm,935
+1,22nd Street,1.9,155,Local,Northbound,3:41pm,941
+1,San Francisco,0.2,155,Local,Northbound,3:48pm,948
+4,Tamien,49.1,257,Limited-stop,Northbound,2:16pm,856
+4,San Jose Diridon,47.5,257,Limited-stop,Northbound,2:24pm,864
+4,Santa Clara,44.7,257,Limited-stop,Northbound,2:29pm,869
+4,Lawrence,40.8,257,Limited-stop,Northbound,2:34pm,874
+3,Sunnyvale,38.8,257,Limited-stop,Northbound,2:39pm,879
+3,Mountain View,36.1,257,Limited-stop,Northbound,2:44pm,884
+3,San Antonio,34.1,257,Limited-stop,Northbound,2:47pm,887
+3,California Ave,31.8,257,Limited-stop,Northbound,2:52pm,892
+3,Palo Alto,30.1,257,Limited-stop,Northbound,2:56pm,896
+3,Menlo Park,28.9,257,Limited-stop,Northbound,2:59pm,899
+2,Redwood City,25.4,257,Limited-stop,Northbound,3:05pm,905
+2,San Carlos,23.2,257,Limited-stop,Northbound,3:09pm,909
+2,Belmont,21.9,257,Limited-stop,Northbound,3:13pm,913
+2,Hillsdale,20.3,257,Limited-stop,Northbound,3:16pm,916
+2,San Mateo,17.9,257,Limited-stop,Northbound,3:21pm,921
+2,Burlingame,16.3,257,Limited-stop,Northbound,3:24pm,924
+2,Millbrae,13.7,257,Limited-stop,Northbound,3:29pm,929
+1,San Bruno,11.6,257,Limited-stop,Northbound,3:33pm,933
+1,San Francisco,0.2,257,Limited-stop,Northbound,3:50pm,950
+4,San Jose Diridon,47.5,159,Local,Northbound,3:13pm,913
+4,College Park,46.3,159,Local,Northbound,3:16pm,916
+4,Santa Clara,44.7,159,Local,Northbound,3:20pm,920
+4,Lawrence,40.8,159,Local,Northbound,3:25pm,925
+3,Sunnyvale,38.8,159,Local,Northbound,3:30pm,930
+3,Mountain View,36.1,159,Local,Northbound,3:35pm,935
+3,San Antonio,34.1,159,Local,Northbound,3:39pm,939
+3,California Ave,31.8,159,Local,Northbound,3:43pm,943
+3,Palo Alto,30.1,159,Local,Northbound,3:47pm,947
+3,Menlo Park,28.9,159,Local,Northbound,3:51pm,951
+2,Redwood City,25.4,159,Local,Northbound,3:56pm,956
+2,San Carlos,23.2,159,Local,Northbound,4:01pm,961
+2,Belmont,21.9,159,Local,Northbound,4:04pm,964
+2,Hillsdale,20.3,159,Local,Northbound,4:08pm,968
+2,Hayward Park,19.1,159,Local,Northbound,4:11pm,971
+2,San Mateo,17.9,159,Local,Northbound,4:15pm,975
+2,Burlingame,16.3,159,Local,Northbound,4:18pm,978
+2,Millbrae,13.7,159,Local,Northbound,4:23pm,983
+1,San Bruno,11.6,159,Local,Northbound,4:28pm,988
+1,So. San Francisco,9.3,159,Local,Northbound,4:32pm,992
+1,Bayshore,5.2,159,Local,Northbound,4:38pm,998
+1,22nd Street,1.9,159,Local,Northbound,4:44pm,1004
+1,San Francisco,0.2,159,Local,Northbound,4:50pm,1010
+4,Tamien,49.1,261,Limited-stop,Northbound,3:32pm,932
+4,San Jose Diridon,47.5,261,Limited-stop,Northbound,3:40pm,940
+4,Santa Clara,44.7,261,Limited-stop,Northbound,3:45pm,945
+4,Lawrence,40.8,261,Limited-stop,Northbound,3:50pm,950
+3,Sunnyvale,38.8,261,Limited-stop,Northbound,3:57pm,957
+3,Mountain View,36.1,261,Limited-stop,Northbound,4:02pm,962
+3,San Antonio,34.1,261,Limited-stop,Northbound,4:06pm,966
+3,California Ave,31.8,261,Limited-stop,Northbound,4:11pm,971
+3,Palo Alto,30.1,261,Limited-stop,Northbound,4:15pm,975
+3,Menlo Park,28.9,261,Limited-stop,Northbound,4:19pm,979
+2,Redwood City,25.4,261,Limited-stop,Northbound,4:24pm,984
+2,San Carlos,23.2,261,Limited-stop,Northbound,4:29pm,989
+2,San Mateo,17.9,261,Limited-stop,Northbound,4:36pm,996
+2,Millbrae,13.7,261,Limited-stop,Northbound,4:42pm,1002
+1,22nd Street,1.9,261,Limited-stop,Northbound,4:56pm,1016
+1,San Francisco,0.2,261,Limited-stop,Northbound,5:02pm,1022
+4,San Jose Diridon,47.5,263,Limited-stop,Northbound,4:12pm,972
+4,Santa Clara,44.7,263,Limited-stop,Northbound,4:18pm,978
+3,Palo Alto,30.1,263,Limited-stop,Northbound,4:33pm,993
+2,Redwood City,25.4,263,Limited-stop,Northbound,4:40pm,1000
+2,San Carlos,23.2,263,Limited-stop,Northbound,4:44pm,1004
+2,Belmont,21.9,263,Limited-stop,Northbound,4:47pm,1007
+2,Hillsdale,20.3,263,Limited-stop,Northbound,4:51pm,1011
+2,Hayward Park,19.1,263,Limited-stop,Northbound,4:54pm,1014
+2,San Mateo,17.9,263,Limited-stop,Northbound,4:57pm,1017
+2,Burlingame,16.3,263,Limited-stop,Northbound,5:01pm,1021
+2,Millbrae,13.7,263,Limited-stop,Northbound,5:05pm,1025
+1,San Bruno,11.6,263,Limited-stop,Northbound,5:10pm,1030
+1,So. San Francisco,9.3,263,Limited-stop,Northbound,5:14pm,1034
+1,Bayshore,5.2,263,Limited-stop,Northbound,5:21pm,1041
+1,22nd Street,1.9,263,Limited-stop,Northbound,5:30pm,1050
+1,San Francisco,0.2,263,Limited-stop,Northbound,5:36pm,1056
+4,San Jose Diridon,47.5,365,Baby Bullet,Northbound,4:24pm,984
+3,Mountain View,36.1,365,Baby Bullet,Northbound,4:36pm,996
+3,Palo Alto,30.1,365,Baby Bullet,Northbound,4:44pm,1004
+3,Menlo Park,28.9,365,Baby Bullet,Northbound,4:47pm,1007
+2,Redwood City,25.4,365,Baby Bullet,Northbound,4:53pm,1013
+2,Millbrae,13.7,365,Baby Bullet,Northbound,5:10pm,1030
+1,22nd Street,1.9,365,Baby Bullet,Northbound,5:25pm,1045
+1,San Francisco,0.2,365,Baby Bullet,Northbound,5:31pm,1051
+4,San Jose Diridon,47.5,267,Limited-stop,Northbound,4:30pm,990
+4,Lawrence,40.8,267,Limited-stop,Northbound,4:39pm,999
+3,Mountain View,36.1,267,Limited-stop,Northbound,4:46pm,1006
+3,Palo Alto,30.1,267,Limited-stop,Northbound,4:54pm,1014
+3,Menlo Park,28.9,267,Limited-stop,Northbound,4:57pm,1017
+2,San Carlos,23.2,267,Limited-stop,Northbound,5:05pm,1025
+2,Hillsdale,20.3,267,Limited-stop,Northbound,5:09pm,1029
+2,San Mateo,17.9,267,Limited-stop,Northbound,5:13pm,1033
+2,Burlingame,16.3,267,Limited-stop,Northbound,5:17pm,1037
+1,San Bruno,11.6,267,Limited-stop,Northbound,5:24pm,1044
+1,22nd Street,1.9,267,Limited-stop,Northbound,5:35pm,1055
+1,San Francisco,0.2,267,Limited-stop,Northbound,5:42pm,1062
+4,Tamien,49.1,269,Limited-stop,Northbound,4:32pm,992
+4,San Jose Diridon,47.5,269,Limited-stop,Northbound,4:40pm,1000
+4,Santa Clara,44.7,269,Limited-stop,Northbound,4:46pm,1006
+4,Lawrence,40.8,269,Limited-stop,Northbound,4:54pm,1014
+3,Sunnyvale,38.8,269,Limited-stop,Northbound,5:00pm,1020
+3,Mountain View,36.1,269,Limited-stop,Northbound,5:05pm,1025
+3,San Antonio,34.1,269,Limited-stop,Northbound,5:09pm,1029
+3,California Ave,31.8,269,Limited-stop,Northbound,5:14pm,1034
+3,Palo Alto,30.1,269,Limited-stop,Northbound,5:20pm,1040
+3,Menlo Park,28.9,269,Limited-stop,Northbound,5:23pm,1043
+2,Redwood City,25.4,269,Limited-stop,Northbound,5:29pm,1049
+2,San Carlos,23.2,269,Limited-stop,Northbound,5:33pm,1053
+2,San Mateo,17.9,269,Limited-stop,Northbound,5:40pm,1060
+2,Millbrae,13.7,269,Limited-stop,Northbound,5:48pm,1068
+1,22nd Street,1.9,269,Limited-stop,Northbound,6:00pm,1080
+1,San Francisco,0.2,269,Limited-stop,Northbound,6:06pm,1086
+4,San Jose Diridon,47.5,371,Baby Bullet,Northbound,4:45pm,1005
+3,Mountain View,36.1,371,Baby Bullet,Northbound,4:57pm,1017
+3,Palo Alto,30.1,371,Baby Bullet,Northbound,5:05pm,1025
+2,Redwood City,25.4,371,Baby Bullet,Northbound,5:11pm,1031
+2,Hillsdale,20.3,371,Baby Bullet,Northbound,5:18pm,1038
+2,Millbrae,13.7,371,Baby Bullet,Northbound,5:30pm,1050
+1,22nd Street,1.9,371,Baby Bullet,Northbound,5:45pm,1065
+1,San Francisco,0.2,371,Baby Bullet,Northbound,5:51pm,1071
+4,San Jose Diridon,47.5,273,Limited-stop,Northbound,5:08pm,1028
+4,Santa Clara,44.7,273,Limited-stop,Northbound,5:14pm,1034
+3,Palo Alto,30.1,273,Limited-stop,Northbound,5:29pm,1049
+2,Redwood City,25.4,273,Limited-stop,Northbound,5:36pm,1056
+2,San Carlos,23.2,273,Limited-stop,Northbound,5:40pm,1060
+2,Belmont,21.9,273,Limited-stop,Northbound,5:43pm,1063
+2,Hillsdale,20.3,273,Limited-stop,Northbound,5:47pm,1067
+2,Hayward Park,19.1,273,Limited-stop,Northbound,5:50pm,1070
+2,San Mateo,17.9,273,Limited-stop,Northbound,5:53pm,1073
+2,Burlingame,16.3,273,Limited-stop,Northbound,5:57pm,1077
+2,Millbrae,13.7,273,Limited-stop,Northbound,6:01pm,1081
+1,San Bruno,11.6,273,Limited-stop,Northbound,6:06pm,1086
+1,So. San Francisco,9.3,273,Limited-stop,Northbound,6:10pm,1090
+1,Bayshore,5.2,273,Limited-stop,Northbound,6:17pm,1097
+1,22nd Street,1.9,273,Limited-stop,Northbound,6:26pm,1106
+1,San Francisco,0.2,273,Limited-stop,Northbound,6:33pm,1113
+4,San Jose Diridon,47.5,375,Baby Bullet,Northbound,5:20pm,1040
+3,Mountain View,36.1,375,Baby Bullet,Northbound,5:32pm,1052
+3,Palo Alto,30.1,375,Baby Bullet,Northbound,5:40pm,1060
+3,Menlo Park,28.9,375,Baby Bullet,Northbound,5:43pm,1063
+2,Redwood City,25.4,375,Baby Bullet,Northbound,5:49pm,1069
+2,Millbrae,13.7,375,Baby Bullet,Northbound,6:06pm,1086
+1,22nd Street,1.9,375,Baby Bullet,Northbound,6:21pm,1101
+1,San Francisco,0.2,375,Baby Bullet,Northbound,6:27pm,1107
+4,San Jose Diridon,47.5,277,Limited-stop,Northbound,5:30pm,1050
+4,Lawrence,40.8,277,Limited-stop,Northbound,5:39pm,1059
+3,Mountain View,36.1,277,Limited-stop,Northbound,5:46pm,1066
+3,Palo Alto,30.1,277,Limited-stop,Northbound,5:54pm,1074
+3,Menlo Park,28.9,277,Limited-stop,Northbound,5:57pm,1077
+2,San Carlos,23.2,277,Limited-stop,Northbound,6:05pm,1085
+2,Hillsdale,20.3,277,Limited-stop,Northbound,6:09pm,1089
+2,San Mateo,17.9,277,Limited-stop,Northbound,6:13pm,1093
+2,Burlingame,16.3,277,Limited-stop,Northbound,6:17pm,1097
+1,San Bruno,11.6,277,Limited-stop,Northbound,6:24pm,1104
+1,22nd Street,1.9,277,Limited-stop,Northbound,6:35pm,1115
+1,San Francisco,0.2,277,Limited-stop,Northbound,6:42pm,1122
+4,Tamien,49.1,279,Limited-stop,Northbound,5:32pm,1052
+4,San Jose Diridon,47.5,279,Limited-stop,Northbound,5:40pm,1060
+4,Santa Clara,44.7,279,Limited-stop,Northbound,5:46pm,1066
+4,Lawrence,40.8,279,Limited-stop,Northbound,5:54pm,1074
+3,Sunnyvale,38.8,279,Limited-stop,Northbound,6:00pm,1080
+3,Mountain View,36.1,279,Limited-stop,Northbound,6:05pm,1085
+3,San Antonio,34.1,279,Limited-stop,Northbound,6:09pm,1089
+3,California Ave,31.8,279,Limited-stop,Northbound,6:14pm,1094
+3,Palo Alto,30.1,279,Limited-stop,Northbound,6:20pm,1100
+3,Menlo Park,28.9,279,Limited-stop,Northbound,6:23pm,1103
+2,Redwood City,25.4,279,Limited-stop,Northbound,6:29pm,1109
+2,San Carlos,23.2,279,Limited-stop,Northbound,6:33pm,1113
+2,San Mateo,17.9,279,Limited-stop,Northbound,6:40pm,1120
+2,Millbrae,13.7,279,Limited-stop,Northbound,6:48pm,1128
+1,22nd Street,1.9,279,Limited-stop,Northbound,7:00pm,1140
+1,San Francisco,0.2,279,Limited-stop,Northbound,7:06pm,1146
+4,San Jose Diridon,47.5,381,Baby Bullet,Northbound,5:45pm,1065
+3,Mountain View,36.1,381,Baby Bullet,Northbound,5:57pm,1077
+3,Palo Alto,30.1,381,Baby Bullet,Northbound,6:05pm,1085
+2,Redwood City,25.4,381,Baby Bullet,Northbound,6:11pm,1091
+2,Hillsdale,20.3,381,Baby Bullet,Northbound,6:18pm,1098
+2,Millbrae,13.7,381,Baby Bullet,Northbound,6:30pm,1110
+1,22nd Street,1.9,381,Baby Bullet,Northbound,6:45pm,1125
+1,San Francisco,0.2,381,Baby Bullet,Northbound,6:51pm,1131
+4,San Jose Diridon,47.5,283,Limited-stop,Northbound,6:08pm,1088
+4,Santa Clara,44.7,283,Limited-stop,Northbound,6:14pm,1094
+3,Palo Alto,30.1,283,Limited-stop,Northbound,6:29pm,1109
+2,Redwood City,25.4,283,Limited-stop,Northbound,6:36pm,1116
+2,San Carlos,23.2,283,Limited-stop,Northbound,6:40pm,1120
+2,Belmont,21.9,283,Limited-stop,Northbound,6:43pm,1123
+2,Hillsdale,20.3,283,Limited-stop,Northbound,6:47pm,1127
+2,Hayward Park,19.1,283,Limited-stop,Northbound,6:50pm,1130
+2,San Mateo,17.9,283,Limited-stop,Northbound,6:53pm,1133
+2,Burlingame,16.3,283,Limited-stop,Northbound,6:57pm,1137
+2,Millbrae,13.7,283,Limited-stop,Northbound,7:01pm,1141
+1,San Bruno,11.6,283,Limited-stop,Northbound,7:06pm,1146
+1,So. San Francisco,9.3,283,Limited-stop,Northbound,7:10pm,1150
+1,Bayshore,5.2,283,Limited-stop,Northbound,7:17pm,1157
+1,22nd Street,1.9,283,Limited-stop,Northbound,7:26pm,1166
+1,San Francisco,0.2,283,Limited-stop,Northbound,7:33pm,1173
+4,San Jose Diridon,47.5,385,Baby Bullet,Northbound,6:20pm,1100
+3,Mountain View,36.1,385,Baby Bullet,Northbound,6:32pm,1112
+3,Palo Alto,30.1,385,Baby Bullet,Northbound,6:40pm,1120
+3,Menlo Park,28.9,385,Baby Bullet,Northbound,6:43pm,1123
+2,Redwood City,25.4,385,Baby Bullet,Northbound,6:49pm,1129
+2,Millbrae,13.7,385,Baby Bullet,Northbound,7:06pm,1146
+1,22nd Street,1.9,385,Baby Bullet,Northbound,7:21pm,1161
+1,San Francisco,0.2,385,Baby Bullet,Northbound,7:27pm,1167
+4,San Jose Diridon,47.5,287,Limited-stop,Northbound,6:35pm,1115
+4,Lawrence,40.8,287,Limited-stop,Northbound,6:44pm,1124
+3,Sunnyvale,38.8,287,Limited-stop,Northbound,6:48pm,1128
+3,Mountain View,36.1,287,Limited-stop,Northbound,6:53pm,1133
+3,Palo Alto,30.1,287,Limited-stop,Northbound,7:01pm,1141
+3,Menlo Park,28.9,287,Limited-stop,Northbound,7:04pm,1144
+2,San Carlos,23.2,287,Limited-stop,Northbound,7:12pm,1152
+2,Hillsdale,20.3,287,Limited-stop,Northbound,7:16pm,1156
+2,San Mateo,17.9,287,Limited-stop,Northbound,7:20pm,1160
+2,Burlingame,16.3,287,Limited-stop,Northbound,7:24pm,1164
+1,San Bruno,11.6,287,Limited-stop,Northbound,7:31pm,1171
+1,22nd Street,1.9,287,Limited-stop,Northbound,7:42pm,1182
+1,San Francisco,0.2,287,Limited-stop,Northbound,7:49pm,1189
+4,Tamien,49.1,289,Limited-stop,Northbound,6:38pm,1118
+4,San Jose Diridon,47.5,289,Limited-stop,Northbound,6:45pm,1125
+4,Lawrence,40.8,289,Limited-stop,Northbound,6:53pm,1133
+3,Mountain View,36.1,289,Limited-stop,Northbound,7:01pm,1141
+3,California Ave,31.8,289,Limited-stop,Northbound,7:07pm,1147
+3,Palo Alto,30.1,289,Limited-stop,Northbound,7:11pm,1151
+3,Menlo Park,28.9,289,Limited-stop,Northbound,7:14pm,1154
+2,Redwood City,25.4,289,Limited-stop,Northbound,7:20pm,1160
+2,San Carlos,23.2,289,Limited-stop,Northbound,7:24pm,1164
+2,Hillsdale,20.3,289,Limited-stop,Northbound,7:29pm,1169
+2,San Mateo,17.9,289,Limited-stop,Northbound,7:33pm,1173
+2,Burlingame,16.3,289,Limited-stop,Northbound,7:37pm,1177
+2,Millbrae,13.7,289,Limited-stop,Northbound,7:41pm,1181
+1,22nd Street,1.9,289,Limited-stop,Northbound,7:55pm,1195
+1,San Francisco,0.2,289,Limited-stop,Northbound,8:02pm,1202
+4,San Jose Diridon,47.5,191,Local,Northbound,7:07pm,1147
+4,Santa Clara,44.7,191,Local,Northbound,7:12pm,1152
+4,Lawrence,40.8,191,Local,Northbound,7:18pm,1158
+3,Sunnyvale,38.8,191,Local,Northbound,7:22pm,1162
+3,Mountain View,36.1,191,Local,Northbound,7:27pm,1167
+3,San Antonio,34.1,191,Local,Northbound,7:31pm,1171
+3,California Ave,31.8,191,Local,Northbound,7:35pm,1175
+3,Palo Alto,30.1,191,Local,Northbound,7:40pm,1180
+3,Menlo Park,28.9,191,Local,Northbound,7:43pm,1183
+2,Redwood City,25.4,191,Local,Northbound,7:49pm,1189
+2,San Carlos,23.2,191,Local,Northbound,7:53pm,1193
+2,Belmont,21.9,191,Local,Northbound,7:57pm,1197
+2,Hillsdale,20.3,191,Local,Northbound,8:00pm,1200
+2,Hayward Park,19.1,191,Local,Northbound,8:03pm,1203
+2,San Mateo,17.9,191,Local,Northbound,8:07pm,1207
+2,Burlingame,16.3,191,Local,Northbound,8:10pm,1210
+2,Millbrae,13.7,191,Local,Northbound,8:15pm,1215
+1,San Bruno,11.6,191,Local,Northbound,8:20pm,1220
+1,So. San Francisco,9.3,191,Local,Northbound,8:24pm,1224
+1,Bayshore,5.2,191,Local,Northbound,8:30pm,1230
+1,22nd Street,1.9,191,Local,Northbound,8:36pm,1236
+1,San Francisco,0.2,191,Local,Northbound,8:42pm,1242
+4,San Jose Diridon,47.5,193,Local,Northbound,7:45pm,1185
+4,Santa Clara,44.7,193,Local,Northbound,7:50pm,1190
+4,Lawrence,40.8,193,Local,Northbound,7:55pm,1195
+3,Sunnyvale,38.8,193,Local,Northbound,8:00pm,1200
+3,Mountain View,36.1,193,Local,Northbound,8:05pm,1205
+3,San Antonio,34.1,193,Local,Northbound,8:08pm,1208
+3,California Ave,31.8,193,Local,Northbound,8:13pm,1213
+3,Palo Alto,30.1,193,Local,Northbound,8:17pm,1217
+3,Menlo Park,28.9,193,Local,Northbound,8:20pm,1220
+2,Redwood City,25.4,193,Local,Northbound,8:27pm,1227
+2,San Carlos,23.2,193,Local,Northbound,8:31pm,1231
+2,Belmont,21.9,193,Local,Northbound,8:35pm,1235
+2,Hillsdale,20.3,193,Local,Northbound,8:38pm,1238
+2,Hayward Park,19.1,193,Local,Northbound,8:41pm,1241
+2,San Mateo,17.9,193,Local,Northbound,8:44pm,1244
+2,Burlingame,16.3,193,Local,Northbound,8:48pm,1248
+2,Millbrae,13.7,193,Local,Northbound,8:52pm,1252
+1,San Bruno,11.6,193,Local,Northbound,8:57pm,1257
+1,So. San Francisco,9.3,193,Local,Northbound,9:01pm,1261
+1,Bayshore,5.2,193,Local,Northbound,9:07pm,1267
+1,22nd Street,1.9,193,Local,Northbound,9:13pm,1273
+1,San Francisco,0.2,193,Local,Northbound,9:20pm,1280
+4,Tamien,49.1,195,Local,Northbound,8:37pm,1237
+4,San Jose Diridon,47.5,195,Local,Northbound,8:45pm,1245
+4,Santa Clara,44.7,195,Local,Northbound,8:50pm,1250
+4,Lawrence,40.8,195,Local,Northbound,8:55pm,1255
+3,Sunnyvale,38.8,195,Local,Northbound,9:00pm,1260
+3,Mountain View,36.1,195,Local,Northbound,9:05pm,1265
+3,San Antonio,34.1,195,Local,Northbound,9:08pm,1268
+3,California Ave,31.8,195,Local,Northbound,9:13pm,1273
+3,Palo Alto,30.1,195,Local,Northbound,9:17pm,1277
+3,Menlo Park,28.9,195,Local,Northbound,9:20pm,1280
+2,Redwood City,25.4,195,Local,Northbound,9:27pm,1287
+2,San Carlos,23.2,195,Local,Northbound,9:31pm,1291
+2,Belmont,21.9,195,Local,Northbound,9:35pm,1295
+2,Hillsdale,20.3,195,Local,Northbound,9:38pm,1298
+2,Hayward Park,19.1,195,Local,Northbound,9:41pm,1301
+2,San Mateo,17.9,195,Local,Northbound,9:44pm,1304
+2,Burlingame,16.3,195,Local,Northbound,9:48pm,1308
+2,Millbrae,13.7,195,Local,Northbound,9:52pm,1312
+1,San Bruno,11.6,195,Local,Northbound,9:57pm,1317
+1,So. San Francisco,9.3,195,Local,Northbound,10:01pm,1321
+1,Bayshore,5.2,195,Local,Northbound,10:07pm,1327
+1,22nd Street,1.9,195,Local,Northbound,10:13pm,1333
+1,San Francisco,0.2,195,Local,Northbound,10:20pm,1340
+4,Tamien,49.1,197,Local,Northbound,9:37pm,1297
+4,San Jose Diridon,47.5,197,Local,Northbound,9:45pm,1305
+4,Santa Clara,44.7,197,Local,Northbound,9:50pm,1310
+4,Lawrence,40.8,197,Local,Northbound,9:55pm,1315
+3,Sunnyvale,38.8,197,Local,Northbound,10:00pm,1320
+3,Mountain View,36.1,197,Local,Northbound,10:05pm,1325
+3,San Antonio,34.1,197,Local,Northbound,10:08pm,1328
+3,California Ave,31.8,197,Local,Northbound,10:13pm,1333
+3,Palo Alto,30.1,197,Local,Northbound,10:17pm,1337
+3,Menlo Park,28.9,197,Local,Northbound,10:20pm,1340
+2,Redwood City,25.4,197,Local,Northbound,10:27pm,1347
+2,San Carlos,23.2,197,Local,Northbound,10:31pm,1351
+2,Belmont,21.9,197,Local,Northbound,10:35pm,1355
+2,Hillsdale,20.3,197,Local,Northbound,10:38pm,1358
+2,Hayward Park,19.1,197,Local,Northbound,10:41pm,1361
+2,San Mateo,17.9,197,Local,Northbound,10:44pm,1364
+2,Burlingame,16.3,197,Local,Northbound,10:48pm,1368
+2,Millbrae,13.7,197,Local,Northbound,10:52pm,1372
+1,San Bruno,11.6,197,Local,Northbound,10:57pm,1377
+1,So. San Francisco,9.3,197,Local,Northbound,11:01pm,1381
+1,Bayshore,5.2,197,Local,Northbound,11:07pm,1387
+1,22nd Street,1.9,197,Local,Northbound,11:13pm,1393
+1,San Francisco,0.2,197,Local,Northbound,11:20pm,1400
+4,San Jose Diridon,47.5,*199,Local,Northbound,10:30pm,1350
+4,Santa Clara,44.7,*199,Local,Northbound,10:35pm,1355
+4,Lawrence,40.8,*199,Local,Northbound,10:40pm,1360
+3,Sunnyvale,38.8,*199,Local,Northbound,10:45pm,1365
+3,Mountain View,36.1,*199,Local,Northbound,10:50pm,1370
+3,San Antonio,34.1,*199,Local,Northbound,10:54pm,1374
+3,California Ave,31.8,*199,Local,Northbound,10:59pm,1379
+3,Palo Alto,30.1,*199,Local,Northbound,11:04pm,1384
+3,Menlo Park,28.9,*199,Local,Northbound,11:07pm,1387
+2,Redwood City,25.4,*199,Local,Northbound,11:13pm,1393
+2,San Carlos,23.2,*199,Local,Northbound,11:17pm,1397
+2,Belmont,21.9,*199,Local,Northbound,11:21pm,1401
+2,Hillsdale,20.3,*199,Local,Northbound,11:24pm,1404
+2,Hayward Park,19.1,*199,Local,Northbound,11:27pm,1407
+2,San Mateo,17.9,*199,Local,Northbound,11:30pm,1410
+2,Burlingame,16.3,*199,Local,Northbound,11:34pm,1414
+2,Millbrae,13.7,*199,Local,Northbound,11:38pm,1418
+1,San Bruno,11.6,*199,Local,Northbound,11:42pm,1422
+1,So. San Francisco,9.3,*199,Local,Northbound,11:46pm,1426
+1,Bayshore,5.2,*199,Local,Northbound,11:52pm,1432
+1,22nd Street,1.9,*199,Local,Northbound,11:58pm,1438
+1,San Francisco,0.2,*199,Local,Northbound,12:05am,1445
+1,San Francisco,0.2,102,Local,Southbound,4:55am,295
+1,22nd Street,1.9,102,Local,Southbound,4:59am,299
+1,Bayshore,5.2,102,Local,Southbound,5:04am,304
+1,So. San Francisco,9.3,102,Local,Southbound,5:10am,310
+1,San Bruno,11.6,102,Local,Southbound,5:14am,314
+2,Millbrae,13.7,102,Local,Southbound,5:18am,318
+2,Burlingame,16.3,102,Local,Southbound,5:22am,322
+2,San Mateo,17.9,102,Local,Southbound,5:25am,325
+2,Hayward Park,19.1,102,Local,Southbound,5:28am,328
+2,Hillsdale,20.3,102,Local,Southbound,5:32am,332
+2,Belmont,21.9,102,Local,Southbound,5:35am,335
+2,San Carlos,23.2,102,Local,Southbound,5:38am,338
+2,Redwood City,25.4,102,Local,Southbound,5:41am,341
+3,Menlo Park,28.9,102,Local,Southbound,5:47am,347
+3,Palo Alto,30.1,102,Local,Southbound,5:51am,351
+3,California Ave,31.8,102,Local,Southbound,5:55am,355
+3,San Antonio,34.1,102,Local,Southbound,5:59am,359
+3,Mountain View,36.1,102,Local,Southbound,6:04am,364
+3,Sunnyvale,38.8,102,Local,Southbound,6:10am,370
+4,Lawrence,40.8,102,Local,Southbound,6:15am,375
+4,Santa Clara,44.7,102,Local,Southbound,6:22am,382
+4,San Jose Diridon,47.5,102,Local,Southbound,6:31am,391
+1,San Francisco,0.2,104,Local,Southbound,5:25am,325
+1,22nd Street,1.9,104,Local,Southbound,5:29am,329
+1,Bayshore,5.2,104,Local,Southbound,5:34am,334
+1,So. San Francisco,9.3,104,Local,Southbound,5:40am,340
+1,San Bruno,11.6,104,Local,Southbound,5:44am,344
+2,Millbrae,13.7,104,Local,Southbound,5:48am,348
+2,Burlingame,16.3,104,Local,Southbound,5:53am,353
+2,San Mateo,17.9,104,Local,Southbound,5:57am,357
+2,Hayward Park,19.1,104,Local,Southbound,6:00am,360
+2,Hillsdale,20.3,104,Local,Southbound,6:03am,363
+2,Belmont,21.9,104,Local,Southbound,6:07am,367
+2,San Carlos,23.2,104,Local,Southbound,6:10am,370
+2,Redwood City,25.4,104,Local,Southbound,6:15am,375
+3,Menlo Park,28.9,104,Local,Southbound,6:20am,380
+3,Palo Alto,30.1,104,Local,Southbound,6:24am,384
+3,California Ave,31.8,104,Local,Southbound,6:28am,388
+3,San Antonio,34.1,104,Local,Southbound,6:32am,392
+3,Mountain View,36.1,104,Local,Southbound,6:37am,397
+3,Sunnyvale,38.8,104,Local,Southbound,6:42am,402
+4,Lawrence,40.8,104,Local,Southbound,6:46am,406
+4,Santa Clara,44.7,104,Local,Southbound,6:51am,411
+4,San Jose Diridon,47.5,104,Local,Southbound,7:01am,421
+4,Tamien,49.1,104,Local,Southbound,7:06am,426
+1,San Francisco,0.2,206,Limited-stop,Southbound,6:05am,365
+1,22nd Street,1.9,206,Limited-stop,Southbound,6:09am,369
+2,Millbrae,13.7,206,Limited-stop,Southbound,6:22am,382
+2,Burlingame,16.3,206,Limited-stop,Southbound,6:26am,386
+2,San Mateo,17.9,206,Limited-stop,Southbound,6:30am,390
+2,Hillsdale,20.3,206,Limited-stop,Southbound,6:34am,394
+2,San Carlos,23.2,206,Limited-stop,Southbound,6:39am,399
+2,Redwood City,25.4,206,Limited-stop,Southbound,6:44am,404
+3,Menlo Park,28.9,206,Limited-stop,Southbound,6:50am,410
+3,Palo Alto,30.1,206,Limited-stop,Southbound,6:54am,414
+3,California Ave,31.8,206,Limited-stop,Southbound,6:57am,417
+3,Mountain View,36.1,206,Limited-stop,Southbound,7:04am,424
+4,Lawrence,40.8,206,Limited-stop,Southbound,7:09am,429
+4,San Jose Diridon,47.5,206,Limited-stop,Southbound,7:19am,439
+1,San Francisco,0.2,208,Limited-stop,Southbound,6:15am,375
+1,22nd Street,1.9,208,Limited-stop,Southbound,6:19am,379
+1,Bayshore,5.2,208,Limited-stop,Southbound,6:24am,384
+1,So. San Francisco,9.3,208,Limited-stop,Southbound,6:31am,391
+1,San Bruno,11.6,208,Limited-stop,Southbound,6:35am,395
+2,Millbrae,13.7,208,Limited-stop,Southbound,6:39am,399
+2,Burlingame,16.3,208,Limited-stop,Southbound,6:44am,404
+2,San Mateo,17.9,208,Limited-stop,Southbound,6:48am,408
+2,Hayward Park,19.1,208,Limited-stop,Southbound,6:51am,411
+2,Hillsdale,20.3,208,Limited-stop,Southbound,6:54am,414
+2,Belmont,21.9,208,Limited-stop,Southbound,6:58am,418
+2,San Carlos,23.2,208,Limited-stop,Southbound,7:02am,422
+2,Redwood City,25.4,208,Limited-stop,Southbound,7:06am,426
+3,Palo Alto,30.1,208,Limited-stop,Southbound,7:14am,434
+4,Santa Clara,44.7,208,Limited-stop,Southbound,7:27am,447
+4,San Jose Diridon,47.5,208,Limited-stop,Southbound,7:36am,456
+1,San Francisco,0.2,310,Baby Bullet,Southbound,6:35am,395
+1,22nd Street,1.9,310,Baby Bullet,Southbound,6:39am,399
+2,Millbrae,13.7,310,Baby Bullet,Southbound,6:52am,412
+2,Redwood City,25.4,310,Baby Bullet,Southbound,7:11am,431
+3,Menlo Park,28.9,310,Baby Bullet,Southbound,7:17am,437
+3,Palo Alto,30.1,310,Baby Bullet,Southbound,7:21am,441
+3,Mountain View,36.1,310,Baby Bullet,Southbound,7:28am,448
+4,San Jose Diridon,47.5,310,Baby Bullet,Southbound,7:43am,463
+4,Tamien,49.1,310,Baby Bullet,Southbound,7:48am,468
+1,San Francisco,0.2,212,Limited-stop,Southbound,6:45am,405
+1,22nd Street,1.9,212,Limited-stop,Southbound,6:51am,411
+2,Millbrae,13.7,212,Limited-stop,Southbound,7:04am,424
+2,San Mateo,17.9,212,Limited-stop,Southbound,7:11am,431
+2,San Carlos,23.2,212,Limited-stop,Southbound,7:18am,438
+2,Redwood City,25.4,212,Limited-stop,Southbound,7:23am,443
+3,Menlo Park,28.9,212,Limited-stop,Southbound,7:29am,449
+3,Palo Alto,30.1,212,Limited-stop,Southbound,7:33am,453
+3,California Ave,31.8,212,Limited-stop,Southbound,7:37am,457
+3,San Antonio,34.1,212,Limited-stop,Southbound,7:41am,461
+3,Mountain View,36.1,212,Limited-stop,Southbound,7:46am,466
+3,Sunnyvale,38.8,212,Limited-stop,Southbound,7:51am,471
+4,Lawrence,40.8,212,Limited-stop,Southbound,7:56am,476
+4,Santa Clara,44.7,212,Limited-stop,Southbound,8:03am,483
+4,College Park,46.3,212,Limited-stop,Southbound,8:06am,486
+4,San Jose Diridon,47.5,212,Limited-stop,Southbound,8:12am,492
+1,San Francisco,0.2,314,Baby Bullet,Southbound,6:59am,419
+1,22nd Street,1.9,314,Baby Bullet,Southbound,7:03am,423
+2,Millbrae,13.7,314,Baby Bullet,Southbound,7:16am,436
+2,Hillsdale,20.3,314,Baby Bullet,Southbound,7:24am,444
+2,Redwood City,25.4,314,Baby Bullet,Southbound,7:31am,451
+3,Palo Alto,30.1,314,Baby Bullet,Southbound,7:37am,457
+3,Mountain View,36.1,314,Baby Bullet,Southbound,7:50am,470
+4,San Jose Diridon,47.5,314,Baby Bullet,Southbound,8:05am,485
+1,San Francisco,0.2,216,Limited-stop,Southbound,7:05am,425
+1,22nd Street,1.9,216,Limited-stop,Southbound,7:10am,430
+1,San Bruno,11.6,216,Limited-stop,Southbound,7:20am,440
+2,Burlingame,16.3,216,Limited-stop,Southbound,7:27am,447
+2,San Mateo,17.9,216,Limited-stop,Southbound,7:31am,451
+2,Hillsdale,20.3,216,Limited-stop,Southbound,7:35am,455
+2,San Carlos,23.2,216,Limited-stop,Southbound,7:40am,460
+3,Menlo Park,28.9,216,Limited-stop,Southbound,7:48am,468
+3,Palo Alto,30.1,216,Limited-stop,Southbound,7:52am,472
+3,Mountain View,36.1,216,Limited-stop,Southbound,7:59am,479
+4,Lawrence,40.8,216,Limited-stop,Southbound,8:07am,487
+4,San Jose Diridon,47.5,216,Limited-stop,Southbound,8:20am,500
+1,San Francisco,0.2,218,Limited-stop,Southbound,7:15am,435
+1,22nd Street,1.9,218,Limited-stop,Southbound,7:19am,439
+1,Bayshore,5.2,218,Limited-stop,Southbound,7:24am,444
+1,So. San Francisco,9.3,218,Limited-stop,Southbound,7:31am,451
+1,San Bruno,11.6,218,Limited-stop,Southbound,7:35am,455
+2,Millbrae,13.7,218,Limited-stop,Southbound,7:39am,459
+2,Burlingame,16.3,218,Limited-stop,Southbound,7:44am,464
+2,San Mateo,17.9,218,Limited-stop,Southbound,7:48am,468
+2,Hayward Park,19.1,218,Limited-stop,Southbound,7:51am,471
+2,Hillsdale,20.3,218,Limited-stop,Southbound,7:54am,474
+2,Belmont,21.9,218,Limited-stop,Southbound,7:58am,478
+2,San Carlos,23.2,218,Limited-stop,Southbound,8:02am,482
+2,Redwood City,25.4,218,Limited-stop,Southbound,8:06am,486
+3,Palo Alto,30.1,218,Limited-stop,Southbound,8:14am,494
+4,Santa Clara,44.7,218,Limited-stop,Southbound,8:27am,507
+4,San Jose Diridon,47.5,218,Limited-stop,Southbound,8:36am,516
+1,San Francisco,0.2,320,Baby Bullet,Southbound,7:35am,455
+1,22nd Street,1.9,320,Baby Bullet,Southbound,7:39am,459
+2,Millbrae,13.7,320,Baby Bullet,Southbound,7:52am,472
+2,Redwood City,25.4,320,Baby Bullet,Southbound,8:11am,491
+3,Menlo Park,28.9,320,Baby Bullet,Southbound,8:17am,497
+3,Palo Alto,30.1,320,Baby Bullet,Southbound,8:21am,501
+3,Mountain View,36.1,320,Baby Bullet,Southbound,8:28am,508
+4,San Jose Diridon,47.5,320,Baby Bullet,Southbound,8:43am,523
+4,Tamien,49.1,320,Baby Bullet,Southbound,8:48am,528
+1,San Francisco,0.2,222,Limited-stop,Southbound,7:45am,465
+1,22nd Street,1.9,222,Limited-stop,Southbound,7:51am,471
+2,Millbrae,13.7,222,Limited-stop,Southbound,8:04am,484
+2,San Mateo,17.9,222,Limited-stop,Southbound,8:11am,491
+2,San Carlos,23.2,222,Limited-stop,Southbound,8:18am,498
+2,Redwood City,25.4,222,Limited-stop,Southbound,8:23am,503
+3,Menlo Park,28.9,222,Limited-stop,Southbound,8:29am,509
+3,Palo Alto,30.1,222,Limited-stop,Southbound,8:33am,513
+3,California Ave,31.8,222,Limited-stop,Southbound,8:37am,517
+3,San Antonio,34.1,222,Limited-stop,Southbound,8:41am,521
+3,Mountain View,36.1,222,Limited-stop,Southbound,8:46am,526
+3,Sunnyvale,38.8,222,Limited-stop,Southbound,8:51am,531
+4,Lawrence,40.8,222,Limited-stop,Southbound,8:56am,536
+4,Santa Clara,44.7,222,Limited-stop,Southbound,9:03am,543
+4,San Jose Diridon,47.5,222,Limited-stop,Southbound,9:12am,552
+1,San Francisco,0.2,324,Baby Bullet,Southbound,7:59am,479
+1,22nd Street,1.9,324,Baby Bullet,Southbound,8:03am,483
+2,Millbrae,13.7,324,Baby Bullet,Southbound,8:16am,496
+2,Hillsdale,20.3,324,Baby Bullet,Southbound,8:24am,504
+2,Redwood City,25.4,324,Baby Bullet,Southbound,8:31am,511
+3,Palo Alto,30.1,324,Baby Bullet,Southbound,8:37am,517
+3,Mountain View,36.1,324,Baby Bullet,Southbound,8:50am,530
+4,San Jose Diridon,47.5,324,Baby Bullet,Southbound,9:05am,545
+1,San Francisco,0.2,226,Limited-stop,Southbound,8:05am,485
+1,22nd Street,1.9,226,Limited-stop,Southbound,8:10am,490
+1,San Bruno,11.6,226,Limited-stop,Southbound,8:20am,500
+2,Burlingame,16.3,226,Limited-stop,Southbound,8:27am,507
+2,San Mateo,17.9,226,Limited-stop,Southbound,8:31am,511
+2,Hillsdale,20.3,226,Limited-stop,Southbound,8:35am,515
+2,San Carlos,23.2,226,Limited-stop,Southbound,8:40am,520
+3,Menlo Park,28.9,226,Limited-stop,Southbound,8:48am,528
+3,Palo Alto,30.1,226,Limited-stop,Southbound,8:52am,532
+3,Mountain View,36.1,226,Limited-stop,Southbound,8:59am,539
+4,Lawrence,40.8,226,Limited-stop,Southbound,9:07am,547
+4,San Jose Diridon,47.5,226,Limited-stop,Southbound,9:20am,560
+1,San Francisco,0.2,228,Limited-stop,Southbound,8:15am,495
+1,22nd Street,1.9,228,Limited-stop,Southbound,8:19am,499
+1,Bayshore,5.2,228,Limited-stop,Southbound,8:24am,504
+1,So. San Francisco,9.3,228,Limited-stop,Southbound,8:31am,511
+1,San Bruno,11.6,228,Limited-stop,Southbound,8:35am,515
+2,Millbrae,13.7,228,Limited-stop,Southbound,8:39am,519
+2,Burlingame,16.3,228,Limited-stop,Southbound,8:44am,524
+2,San Mateo,17.9,228,Limited-stop,Southbound,8:48am,528
+2,Hayward Park,19.1,228,Limited-stop,Southbound,8:51am,531
+2,Hillsdale,20.3,228,Limited-stop,Southbound,8:54am,534
+2,Belmont,21.9,228,Limited-stop,Southbound,8:58am,538
+2,San Carlos,23.2,228,Limited-stop,Southbound,9:02am,542
+2,Redwood City,25.4,228,Limited-stop,Southbound,9:06am,546
+3,Palo Alto,30.1,228,Limited-stop,Southbound,9:14am,554
+4,Santa Clara,44.7,228,Limited-stop,Southbound,9:27am,567
+4,San Jose Diridon,47.5,228,Limited-stop,Southbound,9:36am,576
+1,San Francisco,0.2,330,Baby Bullet,Southbound,8:35am,515
+1,22nd Street,1.9,330,Baby Bullet,Southbound,8:39am,519
+2,Millbrae,13.7,330,Baby Bullet,Southbound,8:52am,532
+2,Redwood City,25.4,330,Baby Bullet,Southbound,9:11am,551
+3,Menlo Park,28.9,330,Baby Bullet,Southbound,9:17am,557
+3,Palo Alto,30.1,330,Baby Bullet,Southbound,9:21am,561
+3,Mountain View,36.1,330,Baby Bullet,Southbound,9:28am,568
+4,San Jose Diridon,47.5,330,Baby Bullet,Southbound,9:43am,583
+4,Tamien,49.1,330,Baby Bullet,Southbound,9:48am,588
+1,San Francisco,0.2,232,Limited-stop,Southbound,8:45am,525
+1,22nd Street,1.9,232,Limited-stop,Southbound,8:49am,529
+2,Millbrae,13.7,232,Limited-stop,Southbound,9:02am,542
+2,San Mateo,17.9,232,Limited-stop,Southbound,9:09am,549
+2,Hillsdale,20.3,232,Limited-stop,Southbound,9:13am,553
+2,San Carlos,23.2,232,Limited-stop,Southbound,9:18am,558
+2,Redwood City,25.4,232,Limited-stop,Southbound,9:23am,563
+3,Menlo Park,28.9,232,Limited-stop,Southbound,9:29am,569
+3,Palo Alto,30.1,232,Limited-stop,Southbound,9:33am,573
+3,California Ave,31.8,232,Limited-stop,Southbound,9:37am,577
+3,San Antonio,34.1,232,Limited-stop,Southbound,9:41am,581
+3,Mountain View,36.1,232,Limited-stop,Southbound,9:46am,586
+3,Sunnyvale,38.8,232,Limited-stop,Southbound,9:51am,591
+4,Lawrence,40.8,232,Limited-stop,Southbound,9:56am,596
+4,Santa Clara,44.7,232,Limited-stop,Southbound,10:03am,603
+4,San Jose Diridon,47.5,232,Limited-stop,Southbound,10:11am,611
+1,San Francisco,0.2,134,Local,Southbound,9:00am,540
+1,22nd Street,1.9,134,Local,Southbound,9:05am,545
+1,Bayshore,5.2,134,Local,Southbound,9:10am,550
+1,So. San Francisco,9.3,134,Local,Southbound,9:17am,557
+1,San Bruno,11.6,134,Local,Southbound,9:21am,561
+2,Millbrae,13.7,134,Local,Southbound,9:25am,565
+2,Burlingame,16.3,134,Local,Southbound,9:29am,569
+2,San Mateo,17.9,134,Local,Southbound,9:32am,572
+2,Hayward Park,19.1,134,Local,Southbound,9:36am,576
+2,Hillsdale,20.3,134,Local,Southbound,9:39am,579
+2,Belmont,21.9,134,Local,Southbound,9:43am,583
+2,San Carlos,23.2,134,Local,Southbound,9:46am,586
+2,Redwood City,25.4,134,Local,Southbound,9:51am,591
+3,Menlo Park,28.9,134,Local,Southbound,9:56am,596
+3,Palo Alto,30.1,134,Local,Southbound,10:00am,600
+3,California Ave,31.8,134,Local,Southbound,10:04am,604
+3,San Antonio,34.1,134,Local,Southbound,10:08am,608
+3,Mountain View,36.1,134,Local,Southbound,10:13am,613
+3,Sunnyvale,38.8,134,Local,Southbound,10:18am,618
+4,Lawrence,40.8,134,Local,Southbound,10:22am,622
+4,Santa Clara,44.7,134,Local,Southbound,10:27am,627
+4,San Jose Diridon,47.5,134,Local,Southbound,10:35am,635
+1,San Francisco,0.2,236,Limited-stop,Southbound,9:45am,585
+1,San Bruno,11.6,236,Limited-stop,Southbound,9:57am,597
+2,Millbrae,13.7,236,Limited-stop,Southbound,10:01am,601
+2,Burlingame,16.3,236,Limited-stop,Southbound,10:06am,606
+2,San Mateo,17.9,236,Limited-stop,Southbound,10:10am,610
+2,Hillsdale,20.3,236,Limited-stop,Southbound,10:14am,614
+2,Belmont,21.9,236,Limited-stop,Southbound,10:18am,618
+2,San Carlos,23.2,236,Limited-stop,Southbound,10:21am,621
+2,Redwood City,25.4,236,Limited-stop,Southbound,10:26am,626
+3,Menlo Park,28.9,236,Limited-stop,Southbound,10:31am,631
+3,Palo Alto,30.1,236,Limited-stop,Southbound,10:35am,635
+3,California Ave,31.8,236,Limited-stop,Southbound,10:38am,638
+3,San Antonio,34.1,236,Limited-stop,Southbound,10:43am,643
+3,Mountain View,36.1,236,Limited-stop,Southbound,10:47am,647
+3,Sunnyvale,38.8,236,Limited-stop,Southbound,10:52am,652
+4,Lawrence,40.8,236,Limited-stop,Southbound,10:56am,656
+4,Santa Clara,44.7,236,Limited-stop,Southbound,11:02am,662
+4,San Jose Diridon,47.5,236,Limited-stop,Southbound,11:12am,672
+4,Tamien,49.1,236,Limited-stop,Southbound,11:17am,677
+1,San Francisco,0.2,138,Local,Southbound,10:00am,600
+1,22nd Street,1.9,138,Local,Southbound,10:04am,604
+1,Bayshore,5.2,138,Local,Southbound,10:09am,609
+1,So. San Francisco,9.3,138,Local,Southbound,10:16am,616
+1,San Bruno,11.6,138,Local,Southbound,10:20am,620
+2,Millbrae,13.7,138,Local,Southbound,10:25am,625
+2,Burlingame,16.3,138,Local,Southbound,10:29am,629
+2,San Mateo,17.9,138,Local,Southbound,10:32am,632
+2,Hayward Park,19.1,138,Local,Southbound,10:36am,636
+2,Hillsdale,20.3,138,Local,Southbound,10:39am,639
+2,Belmont,21.9,138,Local,Southbound,10:43am,643
+2,San Carlos,23.2,138,Local,Southbound,10:46am,646
+2,Redwood City,25.4,138,Local,Southbound,10:51am,651
+3,Menlo Park,28.9,138,Local,Southbound,10:56am,656
+3,Palo Alto,30.1,138,Local,Southbound,11:00am,660
+3,California Ave,31.8,138,Local,Southbound,11:04am,664
+3,San Antonio,34.1,138,Local,Southbound,11:08am,668
+3,Mountain View,36.1,138,Local,Southbound,11:13am,673
+3,Sunnyvale,38.8,138,Local,Southbound,11:18am,678
+4,Lawrence,40.8,138,Local,Southbound,11:22am,682
+4,Santa Clara,44.7,138,Local,Southbound,11:28am,688
+4,San Jose Diridon,47.5,138,Local,Southbound,11:35am,695
+1,San Francisco,0.2,142,Local,Southbound,11:00am,660
+1,22nd Street,1.9,142,Local,Southbound,11:04am,664
+1,Bayshore,5.2,142,Local,Southbound,11:09am,669
+1,So. San Francisco,9.3,142,Local,Southbound,11:16am,676
+1,San Bruno,11.6,142,Local,Southbound,11:20am,680
+2,Millbrae,13.7,142,Local,Southbound,11:25am,685
+2,Burlingame,16.3,142,Local,Southbound,11:29am,689
+2,San Mateo,17.9,142,Local,Southbound,11:32am,692
+2,Hayward Park,19.1,142,Local,Southbound,11:36am,696
+2,Hillsdale,20.3,142,Local,Southbound,11:39am,699
+2,Belmont,21.9,142,Local,Southbound,11:43am,703
+2,San Carlos,23.2,142,Local,Southbound,11:46am,706
+2,Redwood City,25.4,142,Local,Southbound,11:51am,711
+3,Menlo Park,28.9,142,Local,Southbound,11:56am,716
+3,Palo Alto,30.1,142,Local,Southbound,12:00pm,720
+3,California Ave,31.8,142,Local,Southbound,12:04pm,724
+3,San Antonio,34.1,142,Local,Southbound,12:08pm,728
+3,Mountain View,36.1,142,Local,Southbound,12:13pm,733
+3,Sunnyvale,38.8,142,Local,Southbound,12:18pm,738
+4,Lawrence,40.8,142,Local,Southbound,12:22pm,742
+4,Santa Clara,44.7,142,Local,Southbound,12:28pm,748
+4,San Jose Diridon,47.5,142,Local,Southbound,12:35pm,755
+1,San Francisco,0.2,146,Local,Southbound,12:00pm,720
+1,22nd Street,1.9,146,Local,Southbound,12:04pm,724
+1,Bayshore,5.2,146,Local,Southbound,12:09pm,729
+1,So. San Francisco,9.3,146,Local,Southbound,12:16pm,736
+1,San Bruno,11.6,146,Local,Southbound,12:20pm,740
+2,Millbrae,13.7,146,Local,Southbound,12:25pm,745
+2,Burlingame,16.3,146,Local,Southbound,12:29pm,749
+2,San Mateo,17.9,146,Local,Southbound,12:32pm,752
+2,Hayward Park,19.1,146,Local,Southbound,12:36pm,756
+2,Hillsdale,20.3,146,Local,Southbound,12:39pm,759
+2,Belmont,21.9,146,Local,Southbound,12:43pm,763
+2,San Carlos,23.2,146,Local,Southbound,12:46pm,766
+2,Redwood City,25.4,146,Local,Southbound,12:51pm,771
+3,Menlo Park,28.9,146,Local,Southbound,12:56pm,776
+3,Palo Alto,30.1,146,Local,Southbound,1:00pm,780
+3,California Ave,31.8,146,Local,Southbound,1:04pm,784
+3,San Antonio,34.1,146,Local,Southbound,1:08pm,788
+3,Mountain View,36.1,146,Local,Southbound,1:13pm,793
+3,Sunnyvale,38.8,146,Local,Southbound,1:18pm,798
+4,Lawrence,40.8,146,Local,Southbound,1:22pm,802
+4,Santa Clara,44.7,146,Local,Southbound,1:28pm,808
+4,San Jose Diridon,47.5,146,Local,Southbound,1:35pm,815
+1,San Francisco,0.2,150,Local,Southbound,1:00pm,780
+1,22nd Street,1.9,150,Local,Southbound,1:04pm,784
+1,Bayshore,5.2,150,Local,Southbound,1:09pm,789
+1,So. San Francisco,9.3,150,Local,Southbound,1:16pm,796
+1,San Bruno,11.6,150,Local,Southbound,1:20pm,800
+2,Millbrae,13.7,150,Local,Southbound,1:25pm,805
+2,Burlingame,16.3,150,Local,Southbound,1:29pm,809
+2,San Mateo,17.9,150,Local,Southbound,1:32pm,812
+2,Hayward Park,19.1,150,Local,Southbound,1:36pm,816
+2,Hillsdale,20.3,150,Local,Southbound,1:39pm,819
+2,Belmont,21.9,150,Local,Southbound,1:43pm,823
+2,San Carlos,23.2,150,Local,Southbound,1:46pm,826
+2,Redwood City,25.4,150,Local,Southbound,1:51pm,831
+3,Menlo Park,28.9,150,Local,Southbound,1:56pm,836
+3,Palo Alto,30.1,150,Local,Southbound,2:00pm,840
+3,California Ave,31.8,150,Local,Southbound,2:04pm,844
+3,San Antonio,34.1,150,Local,Southbound,2:08pm,848
+3,Mountain View,36.1,150,Local,Southbound,2:13pm,853
+3,Sunnyvale,38.8,150,Local,Southbound,2:18pm,858
+4,Lawrence,40.8,150,Local,Southbound,2:22pm,862
+4,Santa Clara,44.7,150,Local,Southbound,2:28pm,868
+4,San Jose Diridon,47.5,150,Local,Southbound,2:35pm,875
+1,San Francisco,0.2,152,Local,Southbound,2:00pm,840
+1,22nd Street,1.9,152,Local,Southbound,2:04pm,844
+1,Bayshore,5.2,152,Local,Southbound,2:09pm,849
+1,So. San Francisco,9.3,152,Local,Southbound,2:16pm,856
+1,San Bruno,11.6,152,Local,Southbound,2:20pm,860
+2,Millbrae,13.7,152,Local,Southbound,2:25pm,865
+2,Burlingame,16.3,152,Local,Southbound,2:29pm,869
+2,San Mateo,17.9,152,Local,Southbound,2:32pm,872
+2,Hayward Park,19.1,152,Local,Southbound,2:36pm,876
+2,Hillsdale,20.3,152,Local,Southbound,2:39pm,879
+2,Belmont,21.9,152,Local,Southbound,2:43pm,883
+2,San Carlos,23.2,152,Local,Southbound,2:46pm,886
+2,Redwood City,25.4,152,Local,Southbound,2:51pm,891
+3,Menlo Park,28.9,152,Local,Southbound,2:56pm,896
+3,Palo Alto,30.1,152,Local,Southbound,3:00pm,900
+3,California Ave,31.8,152,Local,Southbound,3:04pm,904
+3,San Antonio,34.1,152,Local,Southbound,3:08pm,908
+3,Mountain View,36.1,152,Local,Southbound,3:13pm,913
+3,Sunnyvale,38.8,152,Local,Southbound,3:18pm,918
+4,Lawrence,40.8,152,Local,Southbound,3:22pm,922
+4,Santa Clara,44.7,152,Local,Southbound,3:28pm,928
+4,San Jose Diridon,47.5,152,Local,Southbound,3:35pm,935
+1,San Francisco,0.2,254,Limited-stop,Southbound,2:43pm,883
+1,San Bruno,11.6,254,Limited-stop,Southbound,2:55pm,895
+2,Millbrae,13.7,254,Limited-stop,Southbound,2:59pm,899
+2,Burlingame,16.3,254,Limited-stop,Southbound,3:04pm,904
+2,San Mateo,17.9,254,Limited-stop,Southbound,3:07pm,907
+2,Hillsdale,20.3,254,Limited-stop,Southbound,3:11pm,911
+2,Belmont,21.9,254,Limited-stop,Southbound,3:15pm,915
+2,San Carlos,23.2,254,Limited-stop,Southbound,3:18pm,918
+2,Redwood City,25.4,254,Limited-stop,Southbound,3:23pm,923
+3,Menlo Park,28.9,254,Limited-stop,Southbound,3:28pm,928
+3,Palo Alto,30.1,254,Limited-stop,Southbound,3:32pm,932
+3,California Ave,31.8,254,Limited-stop,Southbound,3:36pm,936
+3,San Antonio,34.1,254,Limited-stop,Southbound,3:40pm,940
+3,Mountain View,36.1,254,Limited-stop,Southbound,3:45pm,945
+3,Sunnyvale,38.8,254,Limited-stop,Southbound,3:50pm,950
+4,Lawrence,40.8,254,Limited-stop,Southbound,3:54pm,954
+4,Santa Clara,44.7,254,Limited-stop,Southbound,3:59pm,959
+4,San Jose Diridon,47.5,254,Limited-stop,Southbound,4:09pm,969
+4,Tamien,49.1,254,Limited-stop,Southbound,4:14pm,974
+1,San Francisco,0.2,156,Local,Southbound,3:00pm,900
+1,22nd Street,1.9,156,Local,Southbound,3:04pm,904
+1,Bayshore,5.2,156,Local,Southbound,3:09pm,909
+1,So. San Francisco,9.3,156,Local,Southbound,3:16pm,916
+1,San Bruno,11.6,156,Local,Southbound,3:20pm,920
+2,Millbrae,13.7,156,Local,Southbound,3:24pm,924
+2,Burlingame,16.3,156,Local,Southbound,3:29pm,929
+2,San Mateo,17.9,156,Local,Southbound,3:32pm,932
+2,Hayward Park,19.1,156,Local,Southbound,3:36pm,936
+2,Hillsdale,20.3,156,Local,Southbound,3:39pm,939
+2,Belmont,21.9,156,Local,Southbound,3:43pm,943
+2,San Carlos,23.2,156,Local,Southbound,3:46pm,946
+2,Redwood City,25.4,156,Local,Southbound,3:51pm,951
+3,Menlo Park,28.9,156,Local,Southbound,3:56pm,956
+3,Palo Alto,30.1,156,Local,Southbound,4:00pm,960
+3,California Ave,31.8,156,Local,Southbound,4:04pm,964
+3,San Antonio,34.1,156,Local,Southbound,4:08pm,968
+3,Mountain View,36.1,156,Local,Southbound,4:13pm,973
+3,Sunnyvale,38.8,156,Local,Southbound,4:18pm,978
+4,Lawrence,40.8,156,Local,Southbound,4:23pm,983
+4,Santa Clara,44.7,156,Local,Southbound,4:28pm,988
+4,College Park,46.3,156,Local,Southbound,4:31pm,991
+4,San Jose Diridon,47.5,156,Local,Southbound,4:40pm,1000
+4,Tamien,49.1,156,Local,Southbound,4:45pm,1005
+5,Capitol,52.4,156,Local,Southbound,4:52pm,1012
+5,Blossom Hill,55.7,156,Local,Southbound,4:58pm,1018
+6,Morgan Hill,67.5,156,Local,Southbound,5:11pm,1031
+6,San Martin,71.2,156,Local,Southbound,5:17pm,1037
+6,Gilroy,77.4,156,Local,Southbound,5:30pm,1050
+1,San Francisco,0.2,258,Limited-stop,Southbound,3:34pm,934
+1,San Bruno,11.6,258,Limited-stop,Southbound,3:46pm,946
+2,Millbrae,13.7,258,Limited-stop,Southbound,3:51pm,951
+2,Burlingame,16.3,258,Limited-stop,Southbound,3:56pm,956
+2,San Mateo,17.9,258,Limited-stop,Southbound,3:59pm,959
+2,Hillsdale,20.3,258,Limited-stop,Southbound,4:04pm,964
+2,Belmont,21.9,258,Limited-stop,Southbound,4:08pm,968
+2,San Carlos,23.2,258,Limited-stop,Southbound,4:11pm,971
+2,Redwood City,25.4,258,Limited-stop,Southbound,4:16pm,976
+3,Menlo Park,28.9,258,Limited-stop,Southbound,4:22pm,982
+3,Palo Alto,30.1,258,Limited-stop,Southbound,4:26pm,986
+3,California Ave,31.8,258,Limited-stop,Southbound,4:29pm,989
+3,San Antonio,34.1,258,Limited-stop,Southbound,4:34pm,994
+3,Mountain View,36.1,258,Limited-stop,Southbound,4:38pm,998
+3,Sunnyvale,38.8,258,Limited-stop,Southbound,4:44pm,1004
+4,Lawrence,40.8,258,Limited-stop,Southbound,4:48pm,1008
+4,Santa Clara,44.7,258,Limited-stop,Southbound,4:53pm,1013
+4,San Jose Diridon,47.5,258,Limited-stop,Southbound,5:03pm,1023
+4,Tamien,49.1,258,Limited-stop,Southbound,5:08pm,1028
+1,San Francisco,0.2,360,Baby Bullet,Southbound,4:12pm,972
+2,Millbrae,13.7,360,Baby Bullet,Southbound,4:27pm,987
+2,Hillsdale,20.3,360,Baby Bullet,Southbound,4:35pm,995
+3,Palo Alto,30.1,360,Baby Bullet,Southbound,4:46pm,1006
+3,Mountain View,36.1,360,Baby Bullet,Southbound,4:55pm,1015
+4,San Jose Diridon,47.5,360,Baby Bullet,Southbound,5:11pm,1031
+1,San Francisco,0.2,262,Limited-stop,Southbound,4:23pm,983
+1,San Bruno,11.6,262,Limited-stop,Southbound,4:36pm,996
+2,Burlingame,16.3,262,Limited-stop,Southbound,4:42pm,1002
+2,San Mateo,17.9,262,Limited-stop,Southbound,4:46pm,1006
+2,Hillsdale,20.3,262,Limited-stop,Southbound,4:50pm,1010
+2,San Carlos,23.2,262,Limited-stop,Southbound,4:56pm,1016
+3,Palo Alto,30.1,262,Limited-stop,Southbound,5:04pm,1024
+3,California Ave,31.8,262,Limited-stop,Southbound,5:08pm,1028
+3,Mountain View,36.1,262,Limited-stop,Southbound,5:15pm,1035
+3,Sunnyvale,38.8,262,Limited-stop,Southbound,5:20pm,1040
+4,Santa Clara,44.7,262,Limited-stop,Southbound,5:27pm,1047
+4,San Jose Diridon,47.5,262,Limited-stop,Southbound,5:34pm,1054
+1,San Francisco,0.2,264,Limited-stop,Southbound,4:32pm,992
+1,22nd Street,1.9,264,Limited-stop,Southbound,4:36pm,996
+1,Bayshore,5.2,264,Limited-stop,Southbound,4:41pm,1001
+1,So. San Francisco,9.3,264,Limited-stop,Southbound,4:52pm,1012
+1,San Bruno,11.6,264,Limited-stop,Southbound,4:55pm,1015
+2,Millbrae,13.7,264,Limited-stop,Southbound,5:00pm,1020
+2,Burlingame,16.3,264,Limited-stop,Southbound,5:05pm,1025
+2,San Mateo,17.9,264,Limited-stop,Southbound,5:08pm,1028
+2,Hayward Park,19.1,264,Limited-stop,Southbound,5:12pm,1032
+2,Hillsdale,20.3,264,Limited-stop,Southbound,5:15pm,1035
+2,Belmont,21.9,264,Limited-stop,Southbound,5:19pm,1039
+2,San Carlos,23.2,264,Limited-stop,Southbound,5:22pm,1042
+2,Redwood City,25.4,264,Limited-stop,Southbound,5:28pm,1048
+3,Menlo Park,28.9,264,Limited-stop,Southbound,5:34pm,1054
+3,Mountain View,36.1,264,Limited-stop,Southbound,5:42pm,1062
+3,Sunnyvale,38.8,264,Limited-stop,Southbound,5:47pm,1067
+4,Santa Clara,44.7,264,Limited-stop,Southbound,5:54pm,1074
+4,San Jose Diridon,47.5,264,Limited-stop,Southbound,6:02pm,1082
+1,San Francisco,0.2,366,Baby Bullet,Southbound,4:38pm,998
+2,Millbrae,13.7,366,Baby Bullet,Southbound,4:53pm,1013
+2,San Mateo,17.9,366,Baby Bullet,Southbound,4:59pm,1019
+2,Redwood City,25.4,366,Baby Bullet,Southbound,5:08pm,1028
+3,Palo Alto,30.1,366,Baby Bullet,Southbound,5:15pm,1035
+3,California Ave,31.8,366,Baby Bullet,Southbound,5:18pm,1038
+3,Sunnyvale,38.8,366,Baby Bullet,Southbound,5:29pm,1049
+4,San Jose Diridon,47.5,366,Baby Bullet,Southbound,5:44pm,1064
+4,Tamien,49.1,366,Baby Bullet,Southbound,5:49pm,1069
+1,San Francisco,0.2,268,Limited-stop,Southbound,4:58pm,1018
+1,So. San Francisco,9.3,268,Limited-stop,Southbound,5:09pm,1029
+2,Millbrae,13.7,268,Limited-stop,Southbound,5:15pm,1035
+2,Hillsdale,20.3,268,Limited-stop,Southbound,5:23pm,1043
+2,Redwood City,25.4,268,Limited-stop,Southbound,5:33pm,1053
+3,Menlo Park,28.9,268,Limited-stop,Southbound,5:39pm,1059
+3,Palo Alto,30.1,268,Limited-stop,Southbound,5:43pm,1063
+3,California Ave,31.8,268,Limited-stop,Southbound,5:46pm,1066
+3,San Antonio,34.1,268,Limited-stop,Southbound,5:50pm,1070
+3,Mountain View,36.1,268,Limited-stop,Southbound,5:55pm,1075
+3,Sunnyvale,38.8,268,Limited-stop,Southbound,6:00pm,1080
+4,Lawrence,40.8,268,Limited-stop,Southbound,6:06pm,1086
+4,Santa Clara,44.7,268,Limited-stop,Southbound,6:13pm,1093
+4,San Jose Diridon,47.5,268,Limited-stop,Southbound,6:24pm,1104
+4,Tamien,49.1,268,Limited-stop,Southbound,6:29pm,1109
+5,Capitol,52.4,268,Limited-stop,Southbound,6:36pm,1116
+5,Blossom Hill,55.7,268,Limited-stop,Southbound,6:42pm,1122
+6,Morgan Hill,67.5,268,Limited-stop,Southbound,6:55pm,1135
+6,San Martin,71.2,268,Limited-stop,Southbound,7:01pm,1141
+6,Gilroy,77.4,268,Limited-stop,Southbound,7:14pm,1154
+1,San Francisco,0.2,370,Baby Bullet,Southbound,5:16pm,1036
+2,Millbrae,13.7,370,Baby Bullet,Southbound,5:33pm,1053
+2,Hillsdale,20.3,370,Baby Bullet,Southbound,5:43pm,1063
+3,Palo Alto,30.1,370,Baby Bullet,Southbound,5:56pm,1076
+3,Mountain View,36.1,370,Baby Bullet,Southbound,6:03pm,1083
+4,San Jose Diridon,47.5,370,Baby Bullet,Southbound,6:18pm,1098
+1,San Francisco,0.2,272,Limited-stop,Southbound,5:27pm,1047
+1,San Bruno,11.6,272,Limited-stop,Southbound,5:40pm,1060
+2,Burlingame,16.3,272,Limited-stop,Southbound,5:46pm,1066
+2,San Mateo,17.9,272,Limited-stop,Southbound,5:50pm,1070
+2,Hillsdale,20.3,272,Limited-stop,Southbound,5:54pm,1074
+2,San Carlos,23.2,272,Limited-stop,Southbound,6:00pm,1080
+3,Palo Alto,30.1,272,Limited-stop,Southbound,6:08pm,1088
+3,California Ave,31.8,272,Limited-stop,Southbound,6:12pm,1092
+3,Mountain View,36.1,272,Limited-stop,Southbound,6:19pm,1099
+3,Sunnyvale,38.8,272,Limited-stop,Southbound,6:24pm,1104
+4,Santa Clara,44.7,272,Limited-stop,Southbound,6:31pm,1111
+4,San Jose Diridon,47.5,272,Limited-stop,Southbound,6:38pm,1118
+1,San Francisco,0.2,274,Limited-stop,Southbound,5:32pm,1052
+1,22nd Street,1.9,274,Limited-stop,Southbound,5:36pm,1056
+1,Bayshore,5.2,274,Limited-stop,Southbound,5:42pm,1062
+1,So. San Francisco,9.3,274,Limited-stop,Southbound,5:51pm,1071
+1,San Bruno,11.6,274,Limited-stop,Southbound,5:55pm,1075
+2,Millbrae,13.7,274,Limited-stop,Southbound,6:00pm,1080
+2,Burlingame,16.3,274,Limited-stop,Southbound,6:05pm,1085
+2,San Mateo,17.9,274,Limited-stop,Southbound,6:09pm,1089
+2,Hayward Park,19.1,274,Limited-stop,Southbound,6:12pm,1092
+2,Hillsdale,20.3,274,Limited-stop,Southbound,6:15pm,1095
+2,Belmont,21.9,274,Limited-stop,Southbound,6:19pm,1099
+2,San Carlos,23.2,274,Limited-stop,Southbound,6:22pm,1102
+2,Redwood City,25.4,274,Limited-stop,Southbound,6:28pm,1108
+3,Menlo Park,28.9,274,Limited-stop,Southbound,6:34pm,1114
+3,Mountain View,36.1,274,Limited-stop,Southbound,6:42pm,1122
+3,Sunnyvale,38.8,274,Limited-stop,Southbound,6:47pm,1127
+4,Lawrence,40.8,274,Limited-stop,Southbound,6:51pm,1131
+4,Santa Clara,44.7,274,Limited-stop,Southbound,6:57pm,1137
+4,San Jose Diridon,47.5,274,Limited-stop,Southbound,7:06pm,1146
+4,Tamien,49.1,274,Limited-stop,Southbound,7:11pm,1151
+5,Capitol,52.4,274,Limited-stop,Southbound,7:18pm,1158
+5,Blossom Hill,55.7,274,Limited-stop,Southbound,7:24pm,1164
+6,Morgan Hill,67.5,274,Limited-stop,Southbound,7:37pm,1177
+6,San Martin,71.2,274,Limited-stop,Southbound,7:43pm,1183
+6,Gilroy,77.4,274,Limited-stop,Southbound,7:56pm,1196
+1,San Francisco,0.2,376,Baby Bullet,Southbound,5:38pm,1058
+2,Millbrae,13.7,376,Baby Bullet,Southbound,5:53pm,1073
+2,San Mateo,17.9,376,Baby Bullet,Southbound,5:59pm,1079
+2,Redwood City,25.4,376,Baby Bullet,Southbound,6:08pm,1088
+3,Palo Alto,30.1,376,Baby Bullet,Southbound,6:15pm,1095
+3,California Ave,31.8,376,Baby Bullet,Southbound,6:18pm,1098
+3,Sunnyvale,38.8,376,Baby Bullet,Southbound,6:29pm,1109
+4,San Jose Diridon,47.5,376,Baby Bullet,Southbound,6:44pm,1124
+4,Tamien,49.1,376,Baby Bullet,Southbound,6:49pm,1129
+1,San Francisco,0.2,278,Limited-stop,Southbound,5:58pm,1078
+1,So. San Francisco,9.3,278,Limited-stop,Southbound,6:09pm,1089
+2,Millbrae,13.7,278,Limited-stop,Southbound,6:15pm,1095
+2,Hillsdale,20.3,278,Limited-stop,Southbound,6:23pm,1103
+2,Redwood City,25.4,278,Limited-stop,Southbound,6:33pm,1113
+3,Menlo Park,28.9,278,Limited-stop,Southbound,6:39pm,1119
+3,Palo Alto,30.1,278,Limited-stop,Southbound,6:43pm,1123
+3,California Ave,31.8,278,Limited-stop,Southbound,6:46pm,1126
+3,San Antonio,34.1,278,Limited-stop,Southbound,6:50pm,1130
+3,Mountain View,36.1,278,Limited-stop,Southbound,6:55pm,1135
+3,Sunnyvale,38.8,278,Limited-stop,Southbound,7:00pm,1140
+4,Lawrence,40.8,278,Limited-stop,Southbound,7:05pm,1145
+4,Santa Clara,44.7,278,Limited-stop,Southbound,7:12pm,1152
+4,San Jose Diridon,47.5,278,Limited-stop,Southbound,7:24pm,1164
+4,Tamien,49.1,278,Limited-stop,Southbound,7:29pm,1169
+1,San Francisco,0.2,380,Baby Bullet,Southbound,6:16pm,1096
+2,Millbrae,13.7,380,Baby Bullet,Southbound,6:33pm,1113
+2,Hillsdale,20.3,380,Baby Bullet,Southbound,6:43pm,1123
+3,Palo Alto,30.1,380,Baby Bullet,Southbound,6:55pm,1135
+3,Mountain View,36.1,380,Baby Bullet,Southbound,7:02pm,1142
+4,San Jose Diridon,47.5,380,Baby Bullet,Southbound,7:18pm,1158
+1,San Francisco,0.2,282,Limited-stop,Southbound,6:23pm,1103
+1,San Bruno,11.6,282,Limited-stop,Southbound,6:36pm,1116
+2,Burlingame,16.3,282,Limited-stop,Southbound,6:42pm,1122
+2,San Mateo,17.9,282,Limited-stop,Southbound,6:46pm,1126
+2,Hillsdale,20.3,282,Limited-stop,Southbound,6:50pm,1130
+2,San Carlos,23.2,282,Limited-stop,Southbound,6:56pm,1136
+3,Palo Alto,30.1,282,Limited-stop,Southbound,7:04pm,1144
+3,California Ave,31.8,282,Limited-stop,Southbound,7:08pm,1148
+3,Mountain View,36.1,282,Limited-stop,Southbound,7:15pm,1155
+3,Sunnyvale,38.8,282,Limited-stop,Southbound,7:20pm,1160
+4,San Jose Diridon,47.5,282,Limited-stop,Southbound,7:33pm,1173
+1,San Francisco,0.2,284,Limited-stop,Southbound,6:32pm,1112
+1,22nd Street,1.9,284,Limited-stop,Southbound,6:36pm,1116
+1,Bayshore,5.2,284,Limited-stop,Southbound,6:41pm,1121
+1,So. San Francisco,9.3,284,Limited-stop,Southbound,6:52pm,1132
+1,San Bruno,11.6,284,Limited-stop,Southbound,6:55pm,1135
+2,Millbrae,13.7,284,Limited-stop,Southbound,7:00pm,1140
+2,Burlingame,16.3,284,Limited-stop,Southbound,7:05pm,1145
+2,San Mateo,17.9,284,Limited-stop,Southbound,7:08pm,1148
+2,Hayward Park,19.1,284,Limited-stop,Southbound,7:12pm,1152
+2,Hillsdale,20.3,284,Limited-stop,Southbound,7:15pm,1155
+2,Belmont,21.9,284,Limited-stop,Southbound,7:19pm,1159
+2,San Carlos,23.2,284,Limited-stop,Southbound,7:22pm,1162
+2,Redwood City,25.4,284,Limited-stop,Southbound,7:28pm,1168
+3,Menlo Park,28.9,284,Limited-stop,Southbound,7:34pm,1174
+3,Mountain View,36.1,284,Limited-stop,Southbound,7:43pm,1183
+3,Sunnyvale,38.8,284,Limited-stop,Southbound,7:48pm,1188
+4,Santa Clara,44.7,284,Limited-stop,Southbound,7:55pm,1195
+4,San Jose Diridon,47.5,284,Limited-stop,Southbound,8:04pm,1204
+1,San Francisco,0.2,386,Baby Bullet,Southbound,6:38pm,1118
+2,Millbrae,13.7,386,Baby Bullet,Southbound,6:53pm,1133
+2,San Mateo,17.9,386,Baby Bullet,Southbound,6:59pm,1139
+2,Redwood City,25.4,386,Baby Bullet,Southbound,7:08pm,1148
+3,Palo Alto,30.1,386,Baby Bullet,Southbound,7:15pm,1155
+3,Sunnyvale,38.8,386,Baby Bullet,Southbound,7:28pm,1168
+4,San Jose Diridon,47.5,386,Baby Bullet,Southbound,7:43pm,1183
+4,Tamien,49.1,386,Baby Bullet,Southbound,7:48pm,1188
+1,San Francisco,0.2,288,Limited-stop,Southbound,6:58pm,1138
+1,So. San Francisco,9.3,288,Limited-stop,Southbound,7:09pm,1149
+2,Millbrae,13.7,288,Limited-stop,Southbound,7:15pm,1155
+2,Hillsdale,20.3,288,Limited-stop,Southbound,7:23pm,1163
+2,Redwood City,25.4,288,Limited-stop,Southbound,7:33pm,1173
+3,Menlo Park,28.9,288,Limited-stop,Southbound,7:39pm,1179
+3,Palo Alto,30.1,288,Limited-stop,Southbound,7:43pm,1183
+3,California Ave,31.8,288,Limited-stop,Southbound,7:46pm,1186
+3,San Antonio,34.1,288,Limited-stop,Southbound,7:50pm,1190
+3,Mountain View,36.1,288,Limited-stop,Southbound,7:55pm,1195
+3,Sunnyvale,38.8,288,Limited-stop,Southbound,8:00pm,1200
+4,Lawrence,40.8,288,Limited-stop,Southbound,8:05pm,1205
+4,Santa Clara,44.7,288,Limited-stop,Southbound,8:10pm,1210
+4,San Jose Diridon,47.5,288,Limited-stop,Southbound,8:21pm,1221
+4,Tamien,49.1,288,Limited-stop,Southbound,8:26pm,1226
+1,San Francisco,0.2,190,Local,Southbound,7:30pm,1170
+1,22nd Street,1.9,190,Local,Southbound,7:34pm,1174
+1,Bayshore,5.2,190,Local,Southbound,7:39pm,1179
+1,So. San Francisco,9.3,190,Local,Southbound,7:46pm,1186
+1,San Bruno,11.6,190,Local,Southbound,7:50pm,1190
+2,Millbrae,13.7,190,Local,Southbound,7:56pm,1196
+2,Burlingame,16.3,190,Local,Southbound,8:01pm,1201
+2,San Mateo,17.9,190,Local,Southbound,8:04pm,1204
+2,Hayward Park,19.1,190,Local,Southbound,8:08pm,1208
+2,Hillsdale,20.3,190,Local,Southbound,8:11pm,1211
+2,Belmont,21.9,190,Local,Southbound,8:15pm,1215
+2,San Carlos,23.2,190,Local,Southbound,8:18pm,1218
+2,Redwood City,25.4,190,Local,Southbound,8:23pm,1223
+3,Menlo Park,28.9,190,Local,Southbound,8:28pm,1228
+3,Palo Alto,30.1,190,Local,Southbound,8:32pm,1232
+3,California Ave,31.8,190,Local,Southbound,8:35pm,1235
+3,San Antonio,34.1,190,Local,Southbound,8:39pm,1239
+3,Mountain View,36.1,190,Local,Southbound,8:44pm,1244
+3,Sunnyvale,38.8,190,Local,Southbound,8:49pm,1249
+4,Lawrence,40.8,190,Local,Southbound,8:53pm,1253
+4,Santa Clara,44.7,190,Local,Southbound,8:58pm,1258
+4,San Jose Diridon,47.5,190,Local,Southbound,9:06pm,1266
+1,San Francisco,0.2,192,Local,Southbound,8:30pm,1230
+1,22nd Street,1.9,192,Local,Southbound,8:34pm,1234
+1,Bayshore,5.2,192,Local,Southbound,8:39pm,1239
+1,So. San Francisco,9.3,192,Local,Southbound,8:46pm,1246
+1,San Bruno,11.6,192,Local,Southbound,8:50pm,1250
+2,Millbrae,13.7,192,Local,Southbound,8:56pm,1256
+2,Burlingame,16.3,192,Local,Southbound,9:01pm,1261
+2,San Mateo,17.9,192,Local,Southbound,9:04pm,1264
+2,Hayward Park,19.1,192,Local,Southbound,9:08pm,1268
+2,Hillsdale,20.3,192,Local,Southbound,9:11pm,1271
+2,Belmont,21.9,192,Local,Southbound,9:15pm,1275
+2,San Carlos,23.2,192,Local,Southbound,9:18pm,1278
+2,Redwood City,25.4,192,Local,Southbound,9:23pm,1283
+3,Menlo Park,28.9,192,Local,Southbound,9:28pm,1288
+3,Palo Alto,30.1,192,Local,Southbound,9:32pm,1292
+3,California Ave,31.8,192,Local,Southbound,9:35pm,1295
+3,San Antonio,34.1,192,Local,Southbound,9:39pm,1299
+3,Mountain View,36.1,192,Local,Southbound,9:44pm,1304
+3,Sunnyvale,38.8,192,Local,Southbound,9:49pm,1309
+4,Lawrence,40.8,192,Local,Southbound,9:53pm,1313
+4,Santa Clara,44.7,192,Local,Southbound,9:58pm,1318
+4,San Jose Diridon,47.5,192,Local,Southbound,10:06pm,1326
+4,Tamien,49.1,192,Local,Southbound,10:11pm,1331
+1,San Francisco,0.2,194,Local,Southbound,9:30pm,1290
+1,22nd Street,1.9,194,Local,Southbound,9:34pm,1294
+1,Bayshore,5.2,194,Local,Southbound,9:39pm,1299
+1,So. San Francisco,9.3,194,Local,Southbound,9:46pm,1306
+1,San Bruno,11.6,194,Local,Southbound,9:50pm,1310
+2,Millbrae,13.7,194,Local,Southbound,9:56pm,1316
+2,Burlingame,16.3,194,Local,Southbound,10:01pm,1321
+2,San Mateo,17.9,194,Local,Southbound,10:04pm,1324
+2,Hayward Park,19.1,194,Local,Southbound,10:08pm,1328
+2,Hillsdale,20.3,194,Local,Southbound,10:11pm,1331
+2,Belmont,21.9,194,Local,Southbound,10:15pm,1335
+2,San Carlos,23.2,194,Local,Southbound,10:18pm,1338
+2,Redwood City,25.4,194,Local,Southbound,10:23pm,1343
+3,Menlo Park,28.9,194,Local,Southbound,10:28pm,1348
+3,Palo Alto,30.1,194,Local,Southbound,10:32pm,1352
+3,California Ave,31.8,194,Local,Southbound,10:35pm,1355
+3,San Antonio,34.1,194,Local,Southbound,10:39pm,1359
+3,Mountain View,36.1,194,Local,Southbound,10:44pm,1364
+3,Sunnyvale,38.8,194,Local,Southbound,10:49pm,1369
+4,Lawrence,40.8,194,Local,Southbound,10:53pm,1373
+4,Santa Clara,44.7,194,Local,Southbound,10:58pm,1378
+4,San Jose Diridon,47.5,194,Local,Southbound,11:06pm,1386
+4,Tamien,49.1,194,Local,Southbound,11:11pm,1391
+1,San Francisco,0.2,196,Local,Southbound,10:40pm,1360
+1,22nd Street,1.9,196,Local,Southbound,10:44pm,1364
+1,Bayshore,5.2,196,Local,Southbound,10:49pm,1369
+1,So. San Francisco,9.3,196,Local,Southbound,10:56pm,1376
+1,San Bruno,11.6,196,Local,Southbound,11:00pm,1380
+2,Millbrae,13.7,196,Local,Southbound,11:06pm,1386
+2,Burlingame,16.3,196,Local,Southbound,11:11pm,1391
+2,San Mateo,17.9,196,Local,Southbound,11:14pm,1394
+2,Hayward Park,19.1,196,Local,Southbound,11:18pm,1398
+2,Hillsdale,20.3,196,Local,Southbound,11:21pm,1401
+2,Belmont,21.9,196,Local,Southbound,11:25pm,1405
+2,San Carlos,23.2,196,Local,Southbound,11:28pm,1408
+2,Redwood City,25.4,196,Local,Southbound,11:33pm,1413
+3,Menlo Park,28.9,196,Local,Southbound,11:38pm,1418
+3,Palo Alto,30.1,196,Local,Southbound,11:42pm,1422
+3,California Ave,31.8,196,Local,Southbound,11:45pm,1425
+3,San Antonio,34.1,196,Local,Southbound,11:49pm,1429
+3,Mountain View,36.1,196,Local,Southbound,11:54pm,1434
+3,Sunnyvale,38.8,196,Local,Southbound,11:59pm,1439
+4,Lawrence,40.8,196,Local,Southbound,12:03am,1443
+4,Santa Clara,44.7,196,Local,Southbound,12:08am,1448
+4,San Jose Diridon,47.5,196,Local,Southbound,12:16am,1456
+1,San Francisco,0.2,198,Local,Southbound,12:05am,1445
+1,22nd Street,1.9,198,Local,Southbound,12:10am,1450
+1,Bayshore,5.2,198,Local,Southbound,12:15am,1455
+1,So. San Francisco,9.3,198,Local,Southbound,12:21am,1461
+1,San Bruno,11.6,198,Local,Southbound,12:25am,1465
+2,Millbrae,13.7,198,Local,Southbound,12:29am,1469
+2,Burlingame,16.3,198,Local,Southbound,12:33am,1473
+2,San Mateo,17.9,198,Local,Southbound,12:36am,1476
+2,Hayward Park,19.1,198,Local,Southbound,12:40am,1480
+2,Hillsdale,20.3,198,Local,Southbound,12:43am,1483
+2,Belmont,21.9,198,Local,Southbound,12:47am,1487
+2,San Carlos,23.2,198,Local,Southbound,12:50am,1490
+2,Redwood City,25.4,198,Local,Southbound,12:55am,1495
+3,Menlo Park,28.9,198,Local,Southbound,1:00am,1500
+3,Palo Alto,30.1,198,Local,Southbound,1:04am,1504
+3,California Ave,31.8,198,Local,Southbound,1:07am,1507
+3,San Antonio,34.1,198,Local,Southbound,1:11am,1511
+3,Mountain View,36.1,198,Local,Southbound,1:16am,1516
+3,Sunnyvale,38.8,198,Local,Southbound,1:21am,1521
+4,Lawrence,40.8,198,Local,Southbound,1:25am,1525
+4,Santa Clara,44.7,198,Local,Southbound,1:30am,1530
+4,San Jose Diridon,47.5,198,Local,Southbound,1:38am,1538

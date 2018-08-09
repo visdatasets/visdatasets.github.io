@@ -1,0 +1,42 @@
+id,Kind,Name,Value
+Energy,Primary,Energy,66.31
+Non-Energy,Primary,Non-Energy,33.59
+Transportation,Sector,Transportation,14.30
+Electricity & Heat,Sector,Electricity & Heat,24.89
+Other Fuel Combustion,Sector,Other Fuel Combustion,8.61
+Industry,Sector,Industry,14.44
+Fugitive Emissions,Sector,Fugitive Emissions,4.07
+Industrial Processes,Sector,Industrial Processes,4.39
+Land Use Change,Sector,Land Use Change,12.20
+Agriculture,Sector,Agriculture,13.80
+Waste,Sector,Waste,3.20
+Road,End User Activity,Road,10.50
+Air,End User Activity,Air,1.70
+"Rail, Ship, & Other Transport",End User Activity,"Rail, Ship, & Other Transport",2.50
+Residential Buildings,End User Activity,Residential Buildings,10.20
+Commercial Buildings,End User Activity,Commercial Buildings,6.30
+Unallocated Fuel Combustion,End User Activity,Unallocated Fuel Combustion,3.80
+Iron & Steel,End User Activity,Iron & Steel,4.00
+Aluminum/Non-Ferrous Metals,End User Activity,Aluminum/Non-Ferrous Metals,1.20
+Machinery,End User Activity,Machinery,1.00
+"Pulp, Paper & Printing",End User Activity,"Pulp, Paper & Printing",1.10
+Food & Tobacco,End User Activity,Food & Tobacco,1.00
+Chemicals,End User Activity,Chemicals,4.10
+Cement,End User Activity,Cement,5.00
+Other Industry,End User Activity,Other Industry,7.00
+T & D Losses,End User Activity,T & D Losses,2.20
+Coal Mining,End User Activity,Coal Mining,1.30
+"Oil/Gas Extraction, Refining, & Processing",End User Activity,"Oil/Gas Extraction, Refining, & Processing",6.40
+Deforestation,End User Activity,Deforestation,10.90
+Harvest/Management,End User Activity,Harvest/Management,1.30
+Agricultural Energy Use,End User Activity,Agricultural Energy Use,1.40
+Agriculture Soils,End User Activity,Agriculture Soils,5.20
+Livestock & Manure,End User Activity,Livestock & Manure,5.40
+Rice Cultivation,End User Activity,Rice Cultivation,1.50
+Other Agriculture,End User Activity,Other Agriculture,1.70
+Landfills,End User Activity,Landfills,1.70
+"Wastewater, Other Waste",End User Activity,"Wastewater, Other Waste",1.50
+CO2,Gas,CO2,76.15
+CH4,Gas,CH4,13.04
+N2O,Gas,N2O,9.26
+"HFCs, PFCs, SF6",Gas,"HFCs, PFCs, SF6",1.45

@@ -1,0 +1,94 @@
+source_id,target_id,Value,Source,Target
+Energy,Transportation,14.30,Energy,Transportation
+Energy,Electricity & Heat,24.89,Energy,Electricity & Heat
+Energy,Other Fuel Combustion,8.61,Energy,Other Fuel Combustion
+Energy,Industry,14.44,Energy,Industry
+Energy,Fugitive Emissions,4.07,Energy,Fugitive Emissions
+Non-Energy,Industrial Processes,4.39,Non-Energy,Industrial Processes
+Non-Energy,Land Use Change,12.20,Non-Energy,Land Use Change
+Non-Energy,Agriculture,13.80,Non-Energy,Agriculture
+Non-Energy,Waste,3.20,Non-Energy,Waste
+Transportation,Road,10.50,Transportation,Road
+Transportation,Air,1.70,Transportation,Air
+Transportation,"Rail, Ship, & Other Transport",2.10,Transportation,"Rail, Ship, & Other Transport"
+Electricity & Heat,"Rail, Ship, & Other Transport",0.40,Electricity & Heat,"Rail, Ship, & Other Transport"
+Electricity & Heat,Residential Buildings,6.02,Electricity & Heat,Residential Buildings
+Other Fuel Combustion,Residential Buildings,4.18,Other Fuel Combustion,Residential Buildings
+Electricity & Heat,Commercial Buildings,4.47,Electricity & Heat,Commercial Buildings
+Other Fuel Combustion,Commercial Buildings,1.83,Other Fuel Combustion,Commercial Buildings
+Electricity & Heat,Unallocated Fuel Combustion,2.20,Electricity & Heat,Unallocated Fuel Combustion
+Other Fuel Combustion,Unallocated Fuel Combustion,1.60,Other Fuel Combustion,Unallocated Fuel Combustion
+Electricity & Heat,Iron & Steel,1.25,Electricity & Heat,Iron & Steel
+Industry,Iron & Steel,2.75,Industry,Iron & Steel
+Electricity & Heat,Aluminum/Non-Ferrous Metals,0.61,Electricity & Heat,Aluminum/Non-Ferrous Metals
+Industry,Aluminum/Non-Ferrous Metals,0.34,Industry,Aluminum/Non-Ferrous Metals
+Industrial Processes,Aluminum/Non-Ferrous Metals,0.25,Industrial Processes,Aluminum/Non-Ferrous Metals
+Electricity & Heat,Machinery,0.80,Electricity & Heat,Machinery
+Industry,Machinery,0.20,Industry,Machinery
+Electricity & Heat,"Pulp, Paper & Printing",0.62,Electricity & Heat,"Pulp, Paper & Printing"
+Industry,"Pulp, Paper & Printing",0.48,Industry,"Pulp, Paper & Printing"
+Electricity & Heat,Food & Tobacco,0.50,Electricity & Heat,Food & Tobacco
+Industry,Food & Tobacco,0.50,Industry,Food & Tobacco
+Electricity & Heat,Chemicals,1.56,Electricity & Heat,Chemicals
+Industry,Chemicals,1.39,Industry,Chemicals
+Industrial Processes,Chemicals,1.15,Industrial Processes,Chemicals
+Electricity & Heat,Cement,0.19,Electricity & Heat,Cement
+Industry,Cement,2.22,Industry,Cement
+Industrial Processes,Cement,2.59,Industrial Processes,Cement
+Electricity & Heat,Other Industry,2.87,Electricity & Heat,Other Industry
+Industry,Other Industry,3.73,Industry,Other Industry
+Industrial Processes,Other Industry,0.40,Industrial Processes,Other Industry
+Electricity & Heat,T & D Losses,2.20,Electricity & Heat,T & D Losses
+Electricity & Heat,Coal Mining,0.23,Electricity & Heat,Coal Mining
+Industry,Coal Mining,0.22,Industry,Coal Mining
+Fugitive Emissions,Coal Mining,0.85,Fugitive Emissions,Coal Mining
+Electricity & Heat,"Oil/Gas Extraction, Refining, & Processing",0.57,Electricity & Heat,"Oil/Gas Extraction, Refining, & Processing"
+Industry,"Oil/Gas Extraction, Refining, & Processing",2.61,Industry,"Oil/Gas Extraction, Refining, & Processing"
+Fugitive Emissions,"Oil/Gas Extraction, Refining, & Processing",3.22,Fugitive Emissions,"Oil/Gas Extraction, Refining, & Processing"
+Land Use Change,Deforestation,10.90,Land Use Change,Deforestation
+Land Use Change,Harvest/Management,1.30,Land Use Change,Harvest/Management
+Electricity & Heat,Agricultural Energy Use,0.40,Electricity & Heat,Agricultural Energy Use
+Other Fuel Combustion,Agricultural Energy Use,1.00,Other Fuel Combustion,Agricultural Energy Use
+Agriculture,Agriculture Soils,5.20,Agriculture,Agriculture Soils
+Agriculture,Livestock & Manure,5.40,Agriculture,Livestock & Manure
+Agriculture,Rice Cultivation,1.50,Agriculture,Rice Cultivation
+Agriculture,Other Agriculture,1.70,Agriculture,Other Agriculture
+Waste,Landfills,1.70,Waste,Landfills
+Waste,"Wastewater, Other Waste",1.50,Waste,"Wastewater, Other Waste"
+Road,CO2,10.50,Road,CO2
+Air,CO2,1.70,Air,CO2
+"Rail, Ship, & Other Transport",CO2,2.50,"Rail, Ship, & Other Transport",CO2
+Residential Buildings,CO2,10.20,Residential Buildings,CO2
+Commercial Buildings,CO2,6.30,Commercial Buildings,CO2
+Unallocated Fuel Combustion,CO2,2.53,Unallocated Fuel Combustion,CO2
+Unallocated Fuel Combustion,CH4,0.63,Unallocated Fuel Combustion,CH4
+Unallocated Fuel Combustion,N2O,0.64,Unallocated Fuel Combustion,N2O
+Iron & Steel,CO2,4.00,Iron & Steel,CO2
+Aluminum/Non-Ferrous Metals,CO2,0.83,Aluminum/Non-Ferrous Metals,CO2
+Aluminum/Non-Ferrous Metals,"HFCs, PFCs, SF6",0.37,Aluminum/Non-Ferrous Metals,"HFCs, PFCs, SF6"
+Machinery,CO2,1.00,Machinery,CO2
+"Pulp, Paper & Printing",CO2,1.10,"Pulp, Paper & Printing",CO2
+Food & Tobacco,CO2,1.00,Food & Tobacco,CO2
+Chemicals,CO2,3.05,Chemicals,CO2
+Chemicals,"HFCs, PFCs, SF6",0.62,Chemicals,"HFCs, PFCs, SF6"
+Chemicals,N2O,0.43,Chemicals,N2O
+Cement,CO2,5.00,Cement,CO2
+Other Industry,CO2,6.54,Other Industry,CO2
+Other Industry,"HFCs, PFCs, SF6",0.46,Other Industry,"HFCs, PFCs, SF6"
+T & D Losses,CO2,2.20,T & D Losses,CO2
+Coal Mining,CO2,0.35,Coal Mining,CO2
+Coal Mining,CH4,0.95,Coal Mining,CH4
+"Oil/Gas Extraction, Refining, & Processing",CO2,3.75,"Oil/Gas Extraction, Refining, & Processing",CO2
+"Oil/Gas Extraction, Refining, & Processing",CH4,2.65,"Oil/Gas Extraction, Refining, & Processing",CH4
+Deforestation,CO2,10.90,Deforestation,CO2
+Harvest/Management,CO2,1.30,Harvest/Management,CO2
+Agricultural Energy Use,CO2,1.40,Agricultural Energy Use,CO2
+Agriculture Soils,N2O,5.20,Agriculture Soils,N2O
+Livestock & Manure,CH4,4.98,Livestock & Manure,CH4
+Livestock & Manure,N2O,0.42,Livestock & Manure,N2O
+Rice Cultivation,CH4,1.50,Rice Cultivation,CH4
+Other Agriculture,CH4,1.26,Other Agriculture,CH4
+Other Agriculture,N2O,0.44,Other Agriculture,N2O
+Landfills,N2O,1.70,Landfills,N2O
+"Wastewater, Other Waste",CH4,1.07,"Wastewater, Other Waste",CH4
+"Wastewater, Other Waste",N2O,0.43,"Wastewater, Other Waste",N2O
